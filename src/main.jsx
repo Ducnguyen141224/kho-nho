@@ -1,5 +1,10 @@
 import React, { useEffect } from 'react';
 import { createRoot } from 'react-dom/client';
+import '@fontsource/be-vietnam-pro/400.css';
+import '@fontsource/be-vietnam-pro/500.css';
+import '@fontsource/be-vietnam-pro/600.css';
+import '@fontsource/be-vietnam-pro/700.css';
+import '@fontsource/be-vietnam-pro/800.css';
 import './site.css';
 import { initializeWebflow, installLocalForms } from './runtime.js';
 import home from './content/home.json';

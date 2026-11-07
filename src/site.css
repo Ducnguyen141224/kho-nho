@@ -5,7 +5,7 @@
    Features section can collapse and move scroll triggers on narrow screens. */
 .sticky-phone .hero-section-phone-image { aspect-ratio: auto 948 / 1940; }
 
-.not-found { max-width: 760px; margin: 15vh auto; padding: 32px; font-family: Manrope, sans-serif; }
+.not-found { max-width: 760px; margin: 15vh auto; padding: 32px; font-family: 'Be Vietnam Pro', sans-serif; }
 
 /* Kho Nhỏ app palette, from frontend/src/constants/theme.ts. */
 body.kho-nho {
@@ -27,11 +27,20 @@ body.kho-nho {
   --color--paragraph-color: var(--muted);
   --color--background-color: var(--card);
   --color--grey-sections: var(--border);
-  --fonts--paragraph-font: Inter, system-ui, sans-serif;
+  --fonts--heading-font: 'Be Vietnam Pro', sans-serif;
+  --fonts--paragraph-font: 'Be Vietnam Pro', sans-serif;
   background: var(--cream);
   color: var(--text);
-  font-family: Inter, system-ui, sans-serif;
+  font-family: var(--fonts--paragraph-font);
 }
+
+.kho-nho :is(h1, h2, h3, h4, h5, h6, p, a, button, input, .sticky-title, .cta-heading, .brand-name, .workflow-chip, .release-meta, .pricing-tags, .footer-title) {
+  font-family: var(--fonts--paragraph-font);
+}
+.kho-nho .hero-title { font-weight: 700; letter-spacing: -.045em; line-height: 1.25; }
+.kho-nho :is(.title, .style-heading-04) { font-weight: 700; letter-spacing: -.025em; line-height: 1.3; text-wrap: balance; }
+.kho-nho p { line-height: 1.65; }
+.kho-nho .sticky-title { font-weight: 500; line-height: 1.5; }
 
 .kho-nho .hero-section {
   background: radial-gradient(ellipse at 90% 9%, #a3699b2a, transparent 56%),
@@ -76,11 +85,11 @@ body.kho-nho {
 .kho-nho .tab-link-tab-2.w--current { background: var(--gold); border-color: #e7ca96; color: var(--text); }
 .kho-nho .pricing-table { padding: 22px; border: 1px solid var(--border); gap: 10px; }
 .kho-nho .pricing-tags { color: var(--plum); background: var(--gold-light); }
-.kho-nho .install-card-title { font: 750 24px/1.23 Inter, system-ui, sans-serif; margin: 0; }
+.kho-nho .install-card-title { font: 700 24px/1.35 'Be Vietnam Pro', sans-serif; margin: 0; }
 .kho-nho .pricing-table p { margin: 0; color: var(--muted); }
 .kho-nho .card-shadows { border-color: var(--border); background: linear-gradient(140deg, #fffcf8 8%, #f8f1f7 100%); }
 .kho-nho .cta-heading-holder { max-width: none; padding-bottom: 16px; }
-.kho-nho .cta-heading { color: var(--plum); font-weight: 800; line-height: 1.2; }
+.kho-nho .cta-heading { color: var(--plum); font-weight: 700; letter-spacing: -.025em; line-height: 1.35; }
 .kho-nho .download-actions { padding-bottom: 28px; }
 .kho-nho .footer-note { max-width: 260px; color: var(--muted); }
 .kho-nho .footer-content { grid-template-columns: auto auto; }
