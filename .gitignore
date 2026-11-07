@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.browser-profile/
+*.log
+.env*
+!.env.example
+evidence/checks/
+evidence/original-pages/
+evidence/rea-checks.json

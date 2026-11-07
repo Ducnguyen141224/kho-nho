@@ -1,0 +1,808 @@
+{
+  "source": "https://ovo-messenger.webflow.io",
+  "capturedAt": "2026-11-07T10:09:50.212Z",
+  "pages": [
+    {
+      "route": "/",
+      "file": "home.json",
+      "originalSha256": "9f8c2d7a61aa7e7604a9fbb01b995841704e01c59261deed19fb8e9f920ba20f"
+    },
+    {
+      "route": "/template/style-guide",
+      "file": "template-style-guide.json",
+      "originalSha256": "3333a19550ae3d0a1c62b0f3f9a0d696197f2ab3272ad802f90ca46bd35763d4"
+    },
+    {
+      "route": "/template/instructions",
+      "file": "template-instructions.json",
+      "originalSha256": "3a66a6a4b9e66b114de03a702fd11889691d7d36b44ecf9b9c22143f62f72753"
+    },
+    {
+      "route": "/template/licensing",
+      "file": "template-licensing.json",
+      "originalSha256": "a252e8d105d06b65b7ca742373b826531099713e22fc673fb87a4c01323c607c"
+    },
+    {
+      "route": "/template/change-log",
+      "file": "template-change-log.json",
+      "originalSha256": "50d99051129383dd43a849d143afe977ae4e8508b39206950678f35319615917"
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/css/ovo-messenger.webflow.0d0212f27.css",
+      "local": "/assets/2888b57ee8-ovo-messenger.webflow.0d0212f27.css",
+      "originalSha256": "df6c93795d88f95136ac22a19b6ad8be0765cc7c35ee8a2824aea24814b8aa4d",
+      "localSha256": "75a3429912770d431cde69696f44c89706df53f2f9ea53846a1f1b68b9e16647",
+      "size": 77091,
+      "type": "text/css",
+      "failed": false
+    },
+    {
+      "url": "https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js",
+      "local": "/assets/012e56dad0-webfont.js",
+      "originalSha256": "81016ac6be850b72df5d4faa0c3cec8e2c1b0ba0045712144a6766adfad40bee",
+      "localSha256": "81016ac6be850b72df5d4faa0c3cec8e2c1b0ba0045712144a6766adfad40bee",
+      "size": 13188,
+      "type": "text/javascript; charset=UTF-8",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a1a9e060e555ca816481e_Fav.png",
+      "local": "/assets/df072e27b4-672a1a9e060e555ca816481e_Fav.png",
+      "originalSha256": "9752e458bf5f5873a69b2292f83d816465cdb8add48e9e1e256ac9239bf01b7f",
+      "localSha256": "9752e458bf5f5873a69b2292f83d816465cdb8add48e9e1e256ac9239bf01b7f",
+      "size": 1864,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a1aa295a32637588b952a_Web.png",
+      "local": "/assets/e8b3161837-672a1aa295a32637588b952a_Web.png",
+      "originalSha256": "e13d9f7c0509f6b8ea7eead511717b38d872064ef45ffed349fb101c94bb89db",
+      "localSha256": "e13d9f7c0509f6b8ea7eead511717b38d872064ef45ffed349fb101c94bb89db",
+      "size": 53826,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900%7CManrope:200,300,regular,500,600,700,800",
+      "local": "/assets/4d0e712a31-css.css",
+      "originalSha256": "b93cffc082181f284907decc8940b9792a332afd5efb7b3aacae59234730643a",
+      "localSha256": "c5789cee8799127b5579fafa93b5714279e3824f49a7c8aa2328e1fdac3cba09",
+      "size": 33068,
+      "type": "text/css; charset=utf-8",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a1e3817cc39503d6cda29_Logo%20Main.svg",
+      "local": "/assets/6bab74d51f-672a1e3817cc39503d6cda29_Logo-Main.svg",
+      "originalSha256": "d26e3a8b0f732c6898869b8cdcb37795740f45392b467c75b570fc2020131f12",
+      "localSha256": "d26e3a8b0f732c6898869b8cdcb37795740f45392b467c75b570fc2020131f12",
+      "size": 1590,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a1b9ade171f517073bc45_White%20Hand.png",
+      "local": "/assets/6745c3ca05-672a1b9ade171f517073bc45_White-Hand.png",
+      "originalSha256": "c928064c52cf77bede9f51e39f33dd4f67480ad91c57ecbe60c49525394d1080",
+      "localSha256": "c928064c52cf77bede9f51e39f33dd4f67480ad91c57ecbe60c49525394d1080",
+      "size": 1533046,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a1b9ade171f517073bc45_White%20Hand-p-500.png",
+      "local": "/assets/ec51688085-672a1b9ade171f517073bc45_White-Hand-p-500.png",
+      "originalSha256": "7595a537fc90dd43a25f6fdb84e2adfdf50dc6a369db837d9bac25ba6b295f3b",
+      "localSha256": "7595a537fc90dd43a25f6fdb84e2adfdf50dc6a369db837d9bac25ba6b295f3b",
+      "size": 62684,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a1b9ade171f517073bc45_White%20Hand-p-800.png",
+      "local": "/assets/5d7c7a64fc-672a1b9ade171f517073bc45_White-Hand-p-800.png",
+      "originalSha256": "2f1e02a302f92d8651170a24403a6ffcc61cf1bfde3c522ac62c3476609595ad",
+      "localSha256": "2f1e02a302f92d8651170a24403a6ffcc61cf1bfde3c522ac62c3476609595ad",
+      "size": 148227,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a1b9ade171f517073bc45_White%20Hand-p-1080.png",
+      "local": "/assets/26ab030dcd-672a1b9ade171f517073bc45_White-Hand-p-1080.png",
+      "originalSha256": "c56fa96b5c1b423681ef33e899b72f70bb8065ec784b44bac4eab02572d44399",
+      "localSha256": "c56fa96b5c1b423681ef33e899b72f70bb8065ec784b44bac4eab02572d44399",
+      "size": 256618,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a1b9ade171f517073bc45_White%20Hand-p-1600.png",
+      "local": "/assets/7a67e65f29-672a1b9ade171f517073bc45_White-Hand-p-1600.png",
+      "originalSha256": "5f12d7f4f8828fa88c47cd7cdc9f65180d7b0358ff3ef9b443e79e949482b9ca",
+      "localSha256": "5f12d7f4f8828fa88c47cd7cdc9f65180d7b0358ff3ef9b443e79e949482b9ca",
+      "size": 477388,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f9563cede76a86e1e46d_Screenshot%2001.jpg",
+      "local": "/assets/ae097d27bc-6731f9563cede76a86e1e46d_Screenshot-01.jpg",
+      "originalSha256": "2a43441d55c51d426f78467b3cfd43c6a2093fab9c0c9a3ba58b262d632f0851",
+      "localSha256": "2a43441d55c51d426f78467b3cfd43c6a2093fab9c0c9a3ba58b262d632f0851",
+      "size": 1318536,
+      "type": "image/jpeg",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f9563cede76a86e1e46d_Screenshot%2001-p-500.jpg",
+      "local": "/assets/262bf5b5e8-6731f9563cede76a86e1e46d_Screenshot-01-p-500.jpg",
+      "originalSha256": "23bd53f4bcbf8f2b73d398df2d7980ecd19c036c016d51204b84861aa8b9a404",
+      "localSha256": "23bd53f4bcbf8f2b73d398df2d7980ecd19c036c016d51204b84861aa8b9a404",
+      "size": 53986,
+      "type": "image/jpg",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f9563cede76a86e1e46d_Screenshot%2001-p-800.jpg",
+      "local": "/assets/4a80392696-6731f9563cede76a86e1e46d_Screenshot-01-p-800.jpg",
+      "originalSha256": "e048894426d03f41c8683d497cc67fe379f5700071d465a5582ffbf969f77e16",
+      "localSha256": "e048894426d03f41c8683d497cc67fe379f5700071d465a5582ffbf969f77e16",
+      "size": 104134,
+      "type": "image/jpg",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f9563cede76a86e1e46d_Screenshot%2001-p-1080.jpg",
+      "local": "/assets/9814a93404-6731f9563cede76a86e1e46d_Screenshot-01-p-1080.jpg",
+      "originalSha256": "93a0d718b6010eec498b24dcf8478057e9a9c71d64fc47f7066c4cbe44fbe52c",
+      "localSha256": "93a0d718b6010eec498b24dcf8478057e9a9c71d64fc47f7066c4cbe44fbe52c",
+      "size": 161981,
+      "type": "image/jpg",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f9563cede76a86e1e46d_Screenshot%2001-p-1600.jpg",
+      "local": "/assets/edb3b17722-6731f9563cede76a86e1e46d_Screenshot-01-p-1600.jpg",
+      "originalSha256": "ec1af7dfa8b8ed2b28903cb6f219e5481a715653869bdab3ee7b3f01a01fe04b",
+      "localSha256": "ec1af7dfa8b8ed2b28903cb6f219e5481a715653869bdab3ee7b3f01a01fe04b",
+      "size": 276211,
+      "type": "image/jpg",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eaf7_Logo%207.svg",
+      "local": "/assets/f3af341a0e-672a19fac4b4b452e1a9eaf7_Logo-7.svg",
+      "originalSha256": "4c8d6fafa60d00a88651bc7d219a82053f537b432c06c8e5a1b0937371fd9a59",
+      "localSha256": "4c8d6fafa60d00a88651bc7d219a82053f537b432c06c8e5a1b0937371fd9a59",
+      "size": 5424,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eaf3_Logo%201.svg",
+      "local": "/assets/985fb3735c-672a19fac4b4b452e1a9eaf3_Logo-1.svg",
+      "originalSha256": "7317eb6de658c771a8b4e96eb904feaafa70dad91cf2671641c47ace3524c86b",
+      "localSha256": "7317eb6de658c771a8b4e96eb904feaafa70dad91cf2671641c47ace3524c86b",
+      "size": 5500,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eaf1_Logo%206.svg",
+      "local": "/assets/188d59c232-672a19fac4b4b452e1a9eaf1_Logo-6.svg",
+      "originalSha256": "715699d7ab39d832145aa802725f46b5e931722a029c1b32994879b797ab6720",
+      "localSha256": "715699d7ab39d832145aa802725f46b5e931722a029c1b32994879b797ab6720",
+      "size": 7107,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eaf4_Logo%204.svg",
+      "local": "/assets/cfe80fab10-672a19fac4b4b452e1a9eaf4_Logo-4.svg",
+      "originalSha256": "4a5f4d3f13e9ba940085714b8a26f1ff82a5da3da77f2b1539530a4c3652b304",
+      "localSha256": "4a5f4d3f13e9ba940085714b8a26f1ff82a5da3da77f2b1539530a4c3652b304",
+      "size": 3560,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eaf9_Logo%203.svg",
+      "local": "/assets/667c2db2df-672a19fac4b4b452e1a9eaf9_Logo-3.svg",
+      "originalSha256": "4545ade12fb82e8a497de392cc4cf4f33b53f5a45a8de16e06e8f9e3bcb78d3c",
+      "localSha256": "4545ade12fb82e8a497de392cc4cf4f33b53f5a45a8de16e06e8f9e3bcb78d3c",
+      "size": 11400,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eb0a_Logo%205.svg",
+      "local": "/assets/a4f92bda27-672a19fac4b4b452e1a9eb0a_Logo-5.svg",
+      "originalSha256": "33267705efbd0d357198c8c412c0a971c3f7287aef5c35d2fb4a69949f91eb9a",
+      "localSha256": "33267705efbd0d357198c8c412c0a971c3f7287aef5c35d2fb4a69949f91eb9a",
+      "size": 8627,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eaf5_Logo%202.svg",
+      "local": "/assets/e97572842b-672a19fac4b4b452e1a9eaf5_Logo-2.svg",
+      "originalSha256": "287a616e385365386e085f9b46047dc3e01d0e8dd703a5adaf608d10cbff9464",
+      "localSha256": "287a616e385365386e085f9b46047dc3e01d0e8dd703a5adaf608d10cbff9464",
+      "size": 10530,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eaf2_Logo%208.svg",
+      "local": "/assets/b0495ed9ed-672a19fac4b4b452e1a9eaf2_Logo-8.svg",
+      "originalSha256": "00c466643ac975659baaaf2c9b0d82dd0094ee6ea9457c8e25986bd5c8137280",
+      "localSha256": "00c466643ac975659baaaf2c9b0d82dd0094ee6ea9457c8e25986bd5c8137280",
+      "size": 5555,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eaff_Logo%209.svg",
+      "local": "/assets/daefbb027a-672a19fac4b4b452e1a9eaff_Logo-9.svg",
+      "originalSha256": "d65a553ad0397c8b52b1937b10dd9c2311ae9218925d912ea3aa58b219598d57",
+      "localSha256": "d65a553ad0397c8b52b1937b10dd9c2311ae9218925d912ea3aa58b219598d57",
+      "size": 6468,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f9560656a8c3d58a7514_Features%2001.png",
+      "local": "/assets/2cef6dc813-6731f9560656a8c3d58a7514_Features-01.png",
+      "originalSha256": "c3a39990253a6943e09e071938bc8cec3c3248e2b2d227d655db9c17caf1cbd2",
+      "localSha256": "c3a39990253a6943e09e071938bc8cec3c3248e2b2d227d655db9c17caf1cbd2",
+      "size": 814543,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f9560656a8c3d58a7514_Features%2001-p-500.png",
+      "local": "/assets/6495f86b26-6731f9560656a8c3d58a7514_Features-01-p-500.png",
+      "originalSha256": "6712a0e54e8dac3b5ce50416ce4dab153e74f631e2e6dffcca0853ed07eacb95",
+      "localSha256": "6712a0e54e8dac3b5ce50416ce4dab153e74f631e2e6dffcca0853ed07eacb95",
+      "size": 41663,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f9560656a8c3d58a7514_Features%2001-p-800.png",
+      "local": "/assets/12526acd37-6731f9560656a8c3d58a7514_Features-01-p-800.png",
+      "originalSha256": "68a4e4fe5d3360d2f812aa2556c7ec64484323aaa1fd44a2607f7cb1c02de48b",
+      "localSha256": "68a4e4fe5d3360d2f812aa2556c7ec64484323aaa1fd44a2607f7cb1c02de48b",
+      "size": 80214,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f9560656a8c3d58a7514_Features%2001-p-1080.png",
+      "local": "/assets/4529a58abd-6731f9560656a8c3d58a7514_Features-01-p-1080.png",
+      "originalSha256": "e334271ca7dba1733005408c4cc4fe3507dabf9078aeaddb8890a7d79e2bf808",
+      "localSha256": "e334271ca7dba1733005408c4cc4fe3507dabf9078aeaddb8890a7d79e2bf808",
+      "size": 152261,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f956a63da4ba03464a61_Features%2002.png",
+      "local": "/assets/4e8849feec-6731f956a63da4ba03464a61_Features-02.png",
+      "originalSha256": "d1894f5fa224c9321b03d1abd6ee6db79a2b494d25fec9144a1c71a597787192",
+      "localSha256": "d1894f5fa224c9321b03d1abd6ee6db79a2b494d25fec9144a1c71a597787192",
+      "size": 1133316,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f956a63da4ba03464a61_Features%2002-p-500.png",
+      "local": "/assets/bcf50fe7aa-6731f956a63da4ba03464a61_Features-02-p-500.png",
+      "originalSha256": "554498352ef32dbc1f2d51aec20fbb043d25eb2a015c4d64549d3d41890ba531",
+      "localSha256": "554498352ef32dbc1f2d51aec20fbb043d25eb2a015c4d64549d3d41890ba531",
+      "size": 57102,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f956a63da4ba03464a61_Features%2002-p-800.png",
+      "local": "/assets/67418b6c04-6731f956a63da4ba03464a61_Features-02-p-800.png",
+      "originalSha256": "b3ae1a2bd1aad88d1b83b641ed36174ae3409df8f81ab9a2cd2f72ff5e442c46",
+      "localSha256": "b3ae1a2bd1aad88d1b83b641ed36174ae3409df8f81ab9a2cd2f72ff5e442c46",
+      "size": 124486,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f956a63da4ba03464a61_Features%2002-p-1080.png",
+      "local": "/assets/eb87e258d8-6731f956a63da4ba03464a61_Features-02-p-1080.png",
+      "originalSha256": "1ff825ae4d4297d5db0190c1bfdfd6cf5aa1e150a988abba5a8e2a9d25e4dacf",
+      "localSha256": "1ff825ae4d4297d5db0190c1bfdfd6cf5aa1e150a988abba5a8e2a9d25e4dacf",
+      "size": 217766,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f8863f3020e9ad5c1190_Maps.svg",
+      "local": "/assets/309606229a-6731f8863f3020e9ad5c1190_Maps.svg",
+      "originalSha256": "bd9de90414d438bd57b04212be95f7c6d54d80f9992cc9a50cb351963f1faa3b",
+      "localSha256": "bd9de90414d438bd57b04212be95f7c6d54d80f9992cc9a50cb351963f1faa3b",
+      "size": 521,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f886e31ecfb4038b17ae_Wallet.svg",
+      "local": "/assets/35681ea53e-6731f886e31ecfb4038b17ae_Wallet.svg",
+      "originalSha256": "c605565d1aa25da0e837228b0b0b4f5a3162418a77193b41a8ddcc96c923ce4c",
+      "localSha256": "c605565d1aa25da0e837228b0b0b4f5a3162418a77193b41a8ddcc96c923ce4c",
+      "size": 476,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f886d4fac0bf2344254c_Watch.svg",
+      "local": "/assets/75e7b0fa5b-6731f886d4fac0bf2344254c_Watch.svg",
+      "originalSha256": "9b52335516270e544c905c77941b0d603c3bf8402098f9794b041cf871060723",
+      "localSha256": "9b52335516270e544c905c77941b0d603c3bf8402098f9794b041cf871060723",
+      "size": 600,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f8cb2a8660abb1aa0a19_Weather.svg",
+      "local": "/assets/4c0d396731-6731f8cb2a8660abb1aa0a19_Weather.svg",
+      "originalSha256": "ac767291197688efe6053efd556d64dd65c5abec2e34486a03f083748639cc59",
+      "localSha256": "ac767291197688efe6053efd556d64dd65c5abec2e34486a03f083748639cc59",
+      "size": 900,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f886d4fac0bf2344252d_Spotify.svg",
+      "local": "/assets/56d607570a-6731f886d4fac0bf2344252d_Spotify.svg",
+      "originalSha256": "d7bbfe64acf87620e53d675e358f7bdae974439112c11347c9b90ecaf4d6a791",
+      "localSha256": "d7bbfe64acf87620e53d675e358f7bdae974439112c11347c9b90ecaf4d6a791",
+      "size": 290,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f8863c41597f4eb73b17_Instagram.svg",
+      "local": "/assets/fe246fee1e-6731f8863c41597f4eb73b17_Instagram.svg",
+      "originalSha256": "dc92aa379460956c42a0f6583ac70028e388df2dc2d6e1a35b42210254b900fc",
+      "localSha256": "dc92aa379460956c42a0f6583ac70028e388df2dc2d6e1a35b42210254b900fc",
+      "size": 2341,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a22ef31e6ff5448d59e76_Bezel.png",
+      "local": "/assets/df4d7fc4d4-672a22ef31e6ff5448d59e76_Bezel.png",
+      "originalSha256": "80126fe6dc01d02d486dedc8eb6a69c2c195c5724524b9f6f319fd6a55cf9e47",
+      "localSha256": "80126fe6dc01d02d486dedc8eb6a69c2c195c5724524b9f6f319fd6a55cf9e47",
+      "size": 116198,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a22ef31e6ff5448d59e76_Bezel-p-500.png",
+      "local": "/assets/b4ebd19d82-672a22ef31e6ff5448d59e76_Bezel-p-500.png",
+      "originalSha256": "5cf8d2100c72c8bf9559c34fa98f2d338e269e63153c8bba138fd3ed6fd3b7b4",
+      "localSha256": "5cf8d2100c72c8bf9559c34fa98f2d338e269e63153c8bba138fd3ed6fd3b7b4",
+      "size": 17051,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a22ef31e6ff5448d59e76_Bezel-p-800.png",
+      "local": "/assets/b24117bd1d-672a22ef31e6ff5448d59e76_Bezel-p-800.png",
+      "originalSha256": "7a815c1ede9f88c346b0f70a8902860cd7390a9f3c86ee2a7f9f348f30cc28fe",
+      "localSha256": "7a815c1ede9f88c346b0f70a8902860cd7390a9f3c86ee2a7f9f348f30cc28fe",
+      "size": 35490,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f957d3f7246f12c10d35_Screenshot%2002.jpg",
+      "local": "/assets/ef3b191602-6731f957d3f7246f12c10d35_Screenshot-02.jpg",
+      "originalSha256": "4a7ef594348d83199c6429411ac7db055893d1bdc727a5db07dc38e5fec381f1",
+      "localSha256": "4a7ef594348d83199c6429411ac7db055893d1bdc727a5db07dc38e5fec381f1",
+      "size": 813616,
+      "type": "image/jpeg",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f957d3f7246f12c10d35_Screenshot%2002-p-500.jpg",
+      "local": "/assets/d2c405a5fe-6731f957d3f7246f12c10d35_Screenshot-02-p-500.jpg",
+      "originalSha256": "8a967d19e17593663023455256e15bbdf8998fa32b682d122f0ee65dd7f26fe7",
+      "localSha256": "8a967d19e17593663023455256e15bbdf8998fa32b682d122f0ee65dd7f26fe7",
+      "size": 40502,
+      "type": "image/jpg",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f957d3f7246f12c10d35_Screenshot%2002-p-800.jpg",
+      "local": "/assets/e8a1ed6eae-6731f957d3f7246f12c10d35_Screenshot-02-p-800.jpg",
+      "originalSha256": "a65fdeef9679e31200cecbaf9de5f0554f896e3668c55e516c3b8395f4a3c64b",
+      "localSha256": "a65fdeef9679e31200cecbaf9de5f0554f896e3668c55e516c3b8395f4a3c64b",
+      "size": 74440,
+      "type": "image/jpg",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f957d3f7246f12c10d35_Screenshot%2002-p-1080.jpg",
+      "local": "/assets/9804fcf44e-6731f957d3f7246f12c10d35_Screenshot-02-p-1080.jpg",
+      "originalSha256": "094f3d1e302dba164f3aa23224c9ebb9ffceac6f73290baf864e3478b69c33b4",
+      "localSha256": "094f3d1e302dba164f3aa23224c9ebb9ffceac6f73290baf864e3478b69c33b4",
+      "size": 113860,
+      "type": "image/jpg",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/6731f957d3f7246f12c10d35_Screenshot%2002-p-1600.jpg",
+      "local": "/assets/e358f552c9-6731f957d3f7246f12c10d35_Screenshot-02-p-1600.jpg",
+      "originalSha256": "8edc6273f92c760c5f388cd760e026e5327761252be833e7dbc128f221f6cd82",
+      "localSha256": "8edc6273f92c760c5f388cd760e026e5327761252be833e7dbc128f221f6cd82",
+      "size": 193165,
+      "type": "image/jpg",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eb4a_Orange%20Check.svg",
+      "local": "/assets/c85d1955cc-672a19fac4b4b452e1a9eb4a_Orange-Check.svg",
+      "originalSha256": "055c7816e1c571a91145f847f19b5eb774f17371b6a51f2c3e8d114e074fedbe",
+      "localSha256": "055c7816e1c571a91145f847f19b5eb774f17371b6a51f2c3e8d114e074fedbe",
+      "size": 277,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eb4b_Blue%20Check.svg",
+      "local": "/assets/03745f7982-672a19fac4b4b452e1a9eb4b_Blue-Check.svg",
+      "originalSha256": "5b48b58bb92911bc8f9c508356b03272819d3bae83126b5d48b671c8d6548b48",
+      "localSha256": "5b48b58bb92911bc8f9c508356b03272819d3bae83126b5d48b671c8d6548b48",
+      "size": 277,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/663cbe7bcfe235fba6e11750/663cbe7bcfe235fba6e117a2_iPhone%20-%20Hand.webp",
+      "local": "/assets/cbad598c67-663cbe7bcfe235fba6e117a2_iPhone---Hand.webp",
+      "originalSha256": "550eb1aa36dbc57cf9987cbd8d2dc9dd70a0aa0b12488a439bff34c2d4dd92c7",
+      "localSha256": "550eb1aa36dbc57cf9987cbd8d2dc9dd70a0aa0b12488a439bff34c2d4dd92c7",
+      "size": 54934,
+      "type": "image/webp",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eb29_Instagram%20Icon.svg",
+      "local": "/assets/70ab370237-672a19fac4b4b452e1a9eb29_Instagram-Icon.svg",
+      "originalSha256": "5b39bb5b35f8e38bbfa6400cc29c2ace764af87fa3382a36bb6d326842220d71",
+      "localSha256": "5b39bb5b35f8e38bbfa6400cc29c2ace764af87fa3382a36bb6d326842220d71",
+      "size": 1691,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eb2b_Twitter%20Icon.svg",
+      "local": "/assets/fcae5bf075-672a19fac4b4b452e1a9eb2b_Twitter-Icon.svg",
+      "originalSha256": "28ca3c6a80eeab9c446dd47015b8dd779fa80de485e657c7f14161363f698ada",
+      "localSha256": "28ca3c6a80eeab9c446dd47015b8dd779fa80de485e657c7f14161363f698ada",
+      "size": 873,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eb27_Mail%20Icon.svg",
+      "local": "/assets/48c4b24057-672a19fac4b4b452e1a9eb27_Mail-Icon.svg",
+      "originalSha256": "f0d84b506d1390bd32c7fa0ee644ec54c8d8e4cc97722faed2b5e7bae7562fb3",
+      "localSha256": "f0d84b506d1390bd32c7fa0ee644ec54c8d8e4cc97722faed2b5e7bae7562fb3",
+      "size": 797,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=672a19fac4b4b452e1a9eaa8",
+      "local": "/assets/3ae0c8e4aa-jquery-3.5.1.min.dc5e7f18c8.js",
+      "originalSha256": "f7f6a5894f1d19ddad6fa392b2ece2c5e578cbf7da4ea805b6885eb6985b6e3d",
+      "localSha256": "f7f6a5894f1d19ddad6fa392b2ece2c5e578cbf7da4ea805b6885eb6985b6e3d",
+      "size": 89476,
+      "type": "application/javascript",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/js/webflow.841b8b185.js",
+      "local": "/assets/a14707f6d7-webflow.841b8b185.js",
+      "originalSha256": "4fd70c47a6052486f4038c69bee054b511f69f33d0c5735c9c31d085575e81cf",
+      "localSha256": "4fd70c47a6052486f4038c69bee054b511f69f33d0c5735c9c31d085575e81cf",
+      "size": 252524,
+      "type": "text/javascript",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eac8_Back%20Icon.svg",
+      "local": "/assets/329b24b415-672a19fac4b4b452e1a9eac8_Back-Icon.svg",
+      "originalSha256": "ed8c369823ddc7e745044b4cbd997b53adb93f95eb365802dc1ccde03eb0aa8c",
+      "localSha256": "ed8c369823ddc7e745044b4cbd997b53adb93f95eb365802dc1ccde03eb0aa8c",
+      "size": 214,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9ead4_Style%20Guide%20Icon.svg",
+      "local": "/assets/34a71f56f1-672a19fac4b4b452e1a9ead4_Style-Guide-Icon.svg",
+      "originalSha256": "7c389ecea19f98d19beaff95c2f5cfe50b0a4dbf7ad309b4b1c998d13769e694",
+      "localSha256": "7c389ecea19f98d19beaff95c2f5cfe50b0a4dbf7ad309b4b1c998d13769e694",
+      "size": 285,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9ead6_Home%20Icon.svg",
+      "local": "/assets/ad8abf75da-672a19fac4b4b452e1a9ead6_Home-Icon.svg",
+      "originalSha256": "4776937369674aec889fa59484bb819028d36bdbd95120dd88870a7530953ace",
+      "localSha256": "4776937369674aec889fa59484bb819028d36bdbd95120dd88870a7530953ace",
+      "size": 485,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eaba_Flag%20Icon.svg",
+      "local": "/assets/eb4b7eab2e-672a19fac4b4b452e1a9eaba_Flag-Icon.svg",
+      "originalSha256": "0493b35477d95766e7763b5c9e4b4bd47f4a3140b5721d91ee6c01c4a699b6bb",
+      "localSha256": "0493b35477d95766e7763b5c9e4b4bd47f4a3140b5721d91ee6c01c4a699b6bb",
+      "size": 605,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9ead1_Loading%20Icon.svg",
+      "local": "/assets/369c5bb257-672a19fac4b4b452e1a9ead1_Loading-Icon.svg",
+      "originalSha256": "989d252adbd72f137cf52f5c9668ce36864a2b0c8e946f036d9b67e1ec930711",
+      "localSha256": "989d252adbd72f137cf52f5c9668ce36864a2b0c8e946f036d9b67e1ec930711",
+      "size": 1102,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eaf6_Blog%20Image%2005.jpg",
+      "local": "/assets/f9e10db8e9-672a19fac4b4b452e1a9eaf6_Blog-Image-05.jpg",
+      "originalSha256": "28c09e47f14d3953580130c9902d1d4b433488b07bba5f6116a803706642db07",
+      "localSha256": "28c09e47f14d3953580130c9902d1d4b433488b07bba5f6116a803706642db07",
+      "size": 405596,
+      "type": "image/jpeg",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eac6_I%20Icon.svg",
+      "local": "/assets/6d7dad5075-672a19fac4b4b452e1a9eac6_I-Icon.svg",
+      "originalSha256": "3702de433f788ca224437b5ad182aba558bab7a889eca1c6827d60443fc6e3ed",
+      "localSha256": "3702de433f788ca224437b5ad182aba558bab7a889eca1c6827d60443fc6e3ed",
+      "size": 639,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eaf8_Facebook.webp",
+      "local": "/assets/6b0b9bfea3-672a19fac4b4b452e1a9eaf8_Facebook.webp",
+      "originalSha256": "b7ca5ac120b2a39e49f77abe88e0c890b09d5e17ef44a09d815d9cdc1d47ad2e",
+      "localSha256": "b7ca5ac120b2a39e49f77abe88e0c890b09d5e17ef44a09d815d9cdc1d47ad2e",
+      "size": 12954,
+      "type": "image/webp",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eaf8_Facebook-p-500.jpg",
+      "local": "/assets/80df2027fc-672a19fac4b4b452e1a9eaf8_Facebook-p-500.jpg",
+      "originalSha256": "1c97967ad6663661478e3b048b960684106a16b0f4ddc7640bf15c75b23d830c",
+      "localSha256": "1c97967ad6663661478e3b048b960684106a16b0f4ddc7640bf15c75b23d830c",
+      "size": 7598,
+      "type": "image/webp",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eaf8_Facebook-p-800.jpg",
+      "local": "/assets/0128a203ce-672a19fac4b4b452e1a9eaf8_Facebook-p-800.jpg",
+      "originalSha256": "8b0feba770d0ffd9d7b7616f4493a1d05c787da8e5c2caf72ffd7ed274fd525c",
+      "localSha256": "8b0feba770d0ffd9d7b7616f4493a1d05c787da8e5c2caf72ffd7ed274fd525c",
+      "size": 12692,
+      "type": "image/webp",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eaea_Logo%20To%20Use.webp",
+      "local": "/assets/30876ca011-672a19fac4b4b452e1a9eaea_Logo-To-Use.webp",
+      "originalSha256": "fa14ad650ace5b7e85e20f997693f137754f70845e3bcea75b36be404a2695a1",
+      "localSha256": "fa14ad650ace5b7e85e20f997693f137754f70845e3bcea75b36be404a2695a1",
+      "size": 17542,
+      "type": "image/webp",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eaea_Logo%2520To%2520Use-p-500.jpg",
+      "local": "/assets/16a57418fd-672a19fac4b4b452e1a9eaea_Logo-20To-20Use-p-500.jpg",
+      "originalSha256": "7f17693cc5dd91c2ef1f4f1bd292cac1fd1164c0525ca2b1f1bfff4048857d98",
+      "localSha256": "7f17693cc5dd91c2ef1f4f1bd292cac1fd1164c0525ca2b1f1bfff4048857d98",
+      "size": 9828,
+      "type": "image/webp",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eaea_Logo%2520To%2520Use-p-800.jpg",
+      "local": "/assets/5ab7b59263-672a19fac4b4b452e1a9eaea_Logo-20To-20Use-p-800.jpg",
+      "originalSha256": "716b28d006e1a405737755dfbe2782176da6960451aae66c80000b9f7025b8b6",
+      "localSha256": "716b28d006e1a405737755dfbe2782176da6960451aae66c80000b9f7025b8b6",
+      "size": 17536,
+      "type": "image/webp",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eb33_feather-og.png",
+      "local": "/assets/0b2fe0d6d0-672a19fac4b4b452e1a9eb33_feather-og.png",
+      "originalSha256": "1bb396db99de5cb5418c74a5f63ad986380221521fbe8ab6595b372c00fc2b5f",
+      "localSha256": "1bb396db99de5cb5418c74a5f63ad986380221521fbe8ab6595b372c00fc2b5f",
+      "size": 13232,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eb33_feather-og-p-500.png",
+      "local": "/assets/375c5dbb4d-672a19fac4b4b452e1a9eb33_feather-og-p-500.png",
+      "originalSha256": "f96f88dcecd9a45c3e0791af7cf705824d99ab882c111a8672c510d1b74b74ec",
+      "localSha256": "f96f88dcecd9a45c3e0791af7cf705824d99ab882c111a8672c510d1b74b74ec",
+      "size": 7738,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eb33_feather-og-p-800.png",
+      "local": "/assets/9e28dff3ba-672a19fac4b4b452e1a9eb33_feather-og-p-800.png",
+      "originalSha256": "29cb49e81e266b7102b0d5847f2bdf3e4dcb2474292328b8dd4404dcc4b98aee",
+      "localSha256": "29cb49e81e266b7102b0d5847f2bdf3e4dcb2474292328b8dd4404dcc4b98aee",
+      "size": 11885,
+      "type": "image/png",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a19fac4b4b452e1a9eac1_Arrow.svg",
+      "local": "/assets/882ce01d21-672a19fac4b4b452e1a9eac1_Arrow.svg",
+      "originalSha256": "ec96ff1555c5de40f23ab2688817d693ab4587bf9cc9935e0ef83e7e825c62fd",
+      "localSha256": "ec96ff1555c5de40f23ab2688817d693ab4587bf9cc9935e0ef83e7e825c62fd",
+      "size": 269,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/672a1d0b945ff5c4401b3841_Arrow%20Button.svg",
+      "local": "/assets/dc51b08b7f-672a1d0b945ff5c4401b3841_Arrow-Button.svg",
+      "originalSha256": "82459c8b4c9c2e95c5af17cec037754bca533d3532d0fa4266b4593f0ae15f40",
+      "localSha256": "82459c8b4c9c2e95c5af17cec037754bca533d3532d0fa4266b4593f0ae15f40",
+      "size": 233,
+      "type": "image/svg+xml",
+      "failed": false
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2",
+      "local": "/assets/95b9ea8305-UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2",
+      "originalSha256": "ca157063339ac4ad418f214f3abfed119b0798ab4d377386ce5c9e5a7a435ebd",
+      "localSha256": "ca157063339ac4ad418f214f3abfed119b0798ab4d377386ce5c9e5a7a435ebd",
+      "size": 25960,
+      "type": "font/woff2",
+      "failed": false
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2",
+      "local": "/assets/1e8edb2fc1-UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2",
+      "originalSha256": "71d5ee93cc1e9f1d520a3a8b66456de18c7879d8df09d57fcd2eaff75fef0075",
+      "localSha256": "71d5ee93cc1e9f1d520a3a8b66456de18c7879d8df09d57fcd2eaff75fef0075",
+      "size": 18748,
+      "type": "font/woff2",
+      "failed": false
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2",
+      "local": "/assets/6d0a674525-UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2",
+      "originalSha256": "6e9e020a25f9b56d418f2c085b1d3c09725a4da23fe693a5b463064606732190",
+      "localSha256": "6e9e020a25f9b56d418f2c085b1d3c09725a4da23fe693a5b463064606732190",
+      "size": 11232,
+      "type": "font/woff2",
+      "failed": false
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2",
+      "local": "/assets/dbc85b0dfb-UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2",
+      "originalSha256": "1be3448e292fbf05ffe176fe1e43f135013d50b1e7d324ad1a558f623d3bb6f6",
+      "localSha256": "1be3448e292fbf05ffe176fe1e43f135013d50b1e7d324ad1a558f623d3bb6f6",
+      "size": 18996,
+      "type": "font/woff2",
+      "failed": false
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2",
+      "local": "/assets/4c2d4a14f2-UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2",
+      "originalSha256": "5c66f9e07e90c6d4ac4922cc68d60de26c17b1858e677fb5e603fce3952b3ff2",
+      "localSha256": "5c66f9e07e90c6d4ac4922cc68d60de26c17b1858e677fb5e603fce3952b3ff2",
+      "size": 10252,
+      "type": "font/woff2",
+      "failed": false
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2",
+      "local": "/assets/a9d11b3ffe-UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2",
+      "originalSha256": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956",
+      "localSha256": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956",
+      "size": 85068,
+      "type": "font/woff2",
+      "failed": false
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+      "local": "/assets/e3237528af-UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+      "originalSha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+      "localSha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+      "size": 48256,
+      "type": "font/woff2",
+      "failed": false
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggqxSuXd.woff2",
+      "local": "/assets/270f405a6a-xn7gYHE41ni1AdIRggqxSuXd.woff2",
+      "originalSha256": "3c09135e88bbfcd848e99be137710afbb615a8d9a73c5c48e6cb0245a162af1d",
+      "localSha256": "3c09135e88bbfcd848e99be137710afbb615a8d9a73c5c48e6cb0245a162af1d",
+      "size": 2588,
+      "type": "font/woff2",
+      "failed": false
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggOxSuXd.woff2",
+      "local": "/assets/85a47c7dcf-xn7gYHE41ni1AdIRggOxSuXd.woff2",
+      "originalSha256": "447c49583b1b735cc6f566151db1d24354cec41076c55dd98455cfbde9e806c1",
+      "localSha256": "447c49583b1b735cc6f566151db1d24354cec41076c55dd98455cfbde9e806c1",
+      "size": 14352,
+      "type": "font/woff2",
+      "failed": false
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggSxSuXd.woff2",
+      "local": "/assets/8b9fe9ac0c-xn7gYHE41ni1AdIRggSxSuXd.woff2",
+      "originalSha256": "e507c109c31789b33994646b457ee288639324516357250607c9b1398186e069",
+      "localSha256": "e507c109c31789b33994646b457ee288639324516357250607c9b1398186e069",
+      "size": 9268,
+      "type": "font/woff2",
+      "failed": false
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggixSuXd.woff2",
+      "local": "/assets/1571139117-xn7gYHE41ni1AdIRggixSuXd.woff2",
+      "originalSha256": "dbf64d973b3987844df30992c93f47d24ac8935ee8c9b1e320942aeb1b367703",
+      "localSha256": "dbf64d973b3987844df30992c93f47d24ac8935ee8c9b1e320942aeb1b367703",
+      "size": 8388,
+      "type": "font/woff2",
+      "failed": false
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggmxSuXd.woff2",
+      "local": "/assets/ca01630a77-xn7gYHE41ni1AdIRggmxSuXd.woff2",
+      "originalSha256": "2f7335119075b2079f1d882530bbc18728461612bf90743203d73a74a48f4d9b",
+      "localSha256": "2f7335119075b2079f1d882530bbc18728461612bf90743203d73a74a48f4d9b",
+      "size": 15160,
+      "type": "font/woff2",
+      "failed": false
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggexSg.woff2",
+      "local": "/assets/1a551706a8-xn7gYHE41ni1AdIRggexSg.woff2",
+      "originalSha256": "8c2def024c1bf31aacf3624ae3c4d701269b4ec3dc765c04830839f0d36b2d9e",
+      "localSha256": "8c2def024c1bf31aacf3624ae3c4d701269b4ec3dc765c04830839f0d36b2d9e",
+      "size": 24532,
+      "type": "font/woff2",
+      "failed": false
+    }
+  ],
+  "failures": []
+}

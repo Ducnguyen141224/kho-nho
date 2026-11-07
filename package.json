@@ -1,0 +1,24 @@
+{
+  "name": "khonho-design",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "mirror": "node scripts/mirror.mjs",
+    "verify": "node scripts/verify-landing.mjs",
+    "verify:reference": "node scripts/verify.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "cheerio": "^1.1.2",
+    "playwright-core": "^1.65.0",
+    "pngjs": "^7.0.0",
+    "vite": "^7.2.0"
+  }
+}

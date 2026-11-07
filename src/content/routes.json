@@ -1,0 +1,22 @@
+[
+  {
+    "route": "/",
+    "file": "home.json"
+  },
+  {
+    "route": "/template/style-guide",
+    "file": "template-style-guide.json"
+  },
+  {
+    "route": "/template/instructions",
+    "file": "template-instructions.json"
+  },
+  {
+    "route": "/template/licensing",
+    "file": "template-licensing.json"
+  },
+  {
+    "route": "/template/change-log",
+    "file": "template-change-log.json"
+  }
+]

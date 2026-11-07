@@ -1,0 +1,4876 @@
+{
+  "events": {
+    "e": {
+      "id": "e",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-105"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".fade-in-on-scroll",
+        "originalId": "628f30d838105f7cb3ae8e71|454f8225-bb8a-57f8-70b9-84f4d3b4544e",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".fade-in-on-scroll",
+          "originalId": "628f30d838105f7cb3ae8e71|454f8225-bb8a-57f8-70b9-84f4d3b4544e",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1659003967481
+    },
+    "e-3": {
+      "id": "e-3",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "PAGE_START",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-2",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-4"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "id": "672a19fac4b4b452e1a9eaa0",
+        "appliesTo": "PAGE",
+        "styleBlockIds": []
+      },
+      "targets": [
+        {
+          "id": "672a19fac4b4b452e1a9eaa0",
+          "appliesTo": "PAGE",
+          "styleBlockIds": []
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675625338673
+    },
+    "e-4": {
+      "id": "e-4",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "PAGE_FINISH",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-7",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-3"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "id": "672a19fac4b4b452e1a9eaa0",
+        "appliesTo": "PAGE",
+        "styleBlockIds": []
+      },
+      "targets": [
+        {
+          "id": "672a19fac4b4b452e1a9eaa0",
+          "appliesTo": "PAGE",
+          "styleBlockIds": []
+        }
+      ],
+      "config": {
+        "loop": true,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675625338674
+    },
+    "e-12": {
+      "id": "e-12",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-13"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".featured-logo-wrapper",
+        "originalId": "672a19fac4b4b452e1a9eaa0|54cfcadb-e8d1-3fdf-1592-7c88d740b00e",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".featured-logo-wrapper",
+          "originalId": "672a19fac4b4b452e1a9eaa0|54cfcadb-e8d1-3fdf-1592-7c88d740b00e",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675681124152
+    },
+    "e-14": {
+      "id": "e-14",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-15"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".title-container",
+        "originalId": "672a19fac4b4b452e1a9eaa0|1c29725b-cf9e-a49d-7d7c-ccc70a12802d",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".title-container",
+          "originalId": "672a19fac4b4b452e1a9eaa0|1c29725b-cf9e-a49d-7d7c-ccc70a12802d",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675681132576
+    },
+    "e-16": {
+      "id": "e-16",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-17"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".paragraph-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|3bb9b8e4-b80e-0d2a-22f1-52ccfe3b118d",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".paragraph-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|3bb9b8e4-b80e-0d2a-22f1-52ccfe3b118d",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675681138517
+    },
+    "e-18": {
+      "id": "e-18",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-19"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".early-access-tag-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|ede77518-7561-2248-c811-452853b87491",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".early-access-tag-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|ede77518-7561-2248-c811-452853b87491",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675681172353
+    },
+    "e-20": {
+      "id": "e-20",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-21"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".early-access-title-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|d9bdf272-db6d-e0cc-f5ce-12a3addc546c",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".early-access-title-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|d9bdf272-db6d-e0cc-f5ce-12a3addc546c",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675681177413
+    },
+    "e-22": {
+      "id": "e-22",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-23"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".early-access-paraghaph-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|4c9c4307-106c-be6d-738d-d09730864a25",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".early-access-paraghaph-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|4c9c4307-106c-be6d-738d-d09730864a25",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675681183879
+    },
+    "e-24": {
+      "id": "e-24",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-25"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".early-access-button-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|2fd1adc7-a016-60a8-e041-af5290c334ea",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".early-access-button-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|2fd1adc7-a016-60a8-e041-af5290c334ea",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675681189281
+    },
+    "e-26": {
+      "id": "e-26",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-6",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-27"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".early-access-card",
+        "originalId": "672a19fac4b4b452e1a9eaa0|833516a5-bfbd-1c0e-23af-a37ca5005d88",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".early-access-card",
+          "originalId": "672a19fac4b4b452e1a9eaa0|833516a5-bfbd-1c0e-23af-a37ca5005d88",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 26,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675681443120
+    },
+    "e-38": {
+      "id": "e-38",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "MOUSE_OVER",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-8",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-39"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".power-feature-card-container",
+        "originalId": "672a19fac4b4b452e1a9eaa0|6da3ade3-b649-801b-3fbf-daf0c9d43575",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".power-feature-card-container",
+          "originalId": "672a19fac4b4b452e1a9eaa0|6da3ade3-b649-801b-3fbf-daf0c9d43575",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675682286578
+    },
+    "e-39": {
+      "id": "e-39",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "MOUSE_OUT",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-9",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-38"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".power-feature-card-container",
+        "originalId": "672a19fac4b4b452e1a9eaa0|6da3ade3-b649-801b-3fbf-daf0c9d43575",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".power-feature-card-container",
+          "originalId": "672a19fac4b4b452e1a9eaa0|6da3ade3-b649-801b-3fbf-daf0c9d43575",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675682286579
+    },
+    "e-40": {
+      "id": "e-40",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-41"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".power-feature-heading",
+        "originalId": "672a19fac4b4b452e1a9eaa0|93d70ad6-7625-200b-5dfd-bd850990f3fd",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".power-feature-heading",
+          "originalId": "672a19fac4b4b452e1a9eaa0|93d70ad6-7625-200b-5dfd-bd850990f3fd",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675682408849
+    },
+    "e-42": {
+      "id": "e-42",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-43"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".power-feature-paragraph",
+        "originalId": "672a19fac4b4b452e1a9eaa0|44c6d9db-29c3-2396-72c1-32492179481b",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".power-feature-paragraph",
+          "originalId": "672a19fac4b4b452e1a9eaa0|44c6d9db-29c3-2396-72c1-32492179481b",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 7,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675682414336
+    },
+    "e-44": {
+      "id": "e-44",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SLIDER_ACTIVE",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-10",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-45"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".testimonial-slide",
+        "originalId": "672a19fac4b4b452e1a9eaa0|9caa43ce-857a-0efc-d0a2-dd4cbaeb7bae",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".testimonial-slide",
+          "originalId": "672a19fac4b4b452e1a9eaa0|9caa43ce-857a-0efc-d0a2-dd4cbaeb7bae",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675693241987
+    },
+    "e-45": {
+      "id": "e-45",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SLIDER_INACTIVE",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-11",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-44"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".testimonial-slide",
+        "originalId": "672a19fac4b4b452e1a9eaa0|9caa43ce-857a-0efc-d0a2-dd4cbaeb7bae",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".testimonial-slide",
+          "originalId": "672a19fac4b4b452e1a9eaa0|9caa43ce-857a-0efc-d0a2-dd4cbaeb7bae",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675693241987
+    },
+    "e-46": {
+      "id": "e-46",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-47"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".checked-list-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|4b914be7-8f9c-d8a1-d12c-9672f1ebf313",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".checked-list-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|4b914be7-8f9c-d8a1-d12c-9672f1ebf313",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675693928036
+    },
+    "e-48": {
+      "id": "e-48",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-49"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".pricing-footer-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|4fbcff52-53ec-c681-6c72-16023f59cb28",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".pricing-footer-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|4fbcff52-53ec-c681-6c72-16023f59cb28",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675693935174
+    },
+    "e-50": {
+      "id": "e-50",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-51"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".pricing-list-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|be005dbd-a7e9-0a25-7511-6cc26b3985cb",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".pricing-list-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|be005dbd-a7e9-0a25-7511-6cc26b3985cb",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675693940977
+    },
+    "e-52": {
+      "id": "e-52",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-53"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".pricing-header",
+        "originalId": "672a19fac4b4b452e1a9eaa0|e304e7a6-8278-db59-7b91-6f2a88c134da",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".pricing-header",
+          "originalId": "672a19fac4b4b452e1a9eaa0|e304e7a6-8278-db59-7b91-6f2a88c134da",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675693947082
+    },
+    "e-54": {
+      "id": "e-54",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-55"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".pricing-tag",
+        "originalId": "672a19fac4b4b452e1a9eaa0|e24521b3-dd2e-36c7-294f-c709844f83f2",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".pricing-tag",
+          "originalId": "672a19fac4b4b452e1a9eaa0|e24521b3-dd2e-36c7-294f-c709844f83f2",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1675693951690
+    },
+    "e-56": {
+      "id": "e-56",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-57"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".tab-container",
+        "originalId": "672a19fac4b4b452e1a9eaa0|4935aa35-662b-aad1-2151-5fc0eb8e4168",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".tab-container",
+          "originalId": "672a19fac4b4b452e1a9eaa0|4935aa35-662b-aad1-2151-5fc0eb8e4168",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1680822228990
+    },
+    "e-58": {
+      "id": "e-58",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "TAB_ACTIVE",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-14",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-59"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".tab-link",
+        "originalId": "672a19fac4b4b452e1a9eaa0|4935aa35-662b-aad1-2151-5fc0eb8e416b",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".tab-link",
+          "originalId": "672a19fac4b4b452e1a9eaa0|4935aa35-662b-aad1-2151-5fc0eb8e416b",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1680819958552
+    },
+    "e-59": {
+      "id": "e-59",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "TAB_INACTIVE",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-15",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-58"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".tab-link",
+        "originalId": "672a19fac4b4b452e1a9eaa0|4935aa35-662b-aad1-2151-5fc0eb8e416b",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".tab-link",
+          "originalId": "672a19fac4b4b452e1a9eaa0|4935aa35-662b-aad1-2151-5fc0eb8e416b",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1680819958553
+    },
+    "e-61": {
+      "id": "e-61",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-62"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".reviews-logos-holder",
+        "originalId": "18c7e41b-8f9a-bfaa-cb10-bdd3f8017076",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".reviews-logos-holder",
+          "originalId": "18c7e41b-8f9a-bfaa-cb10-bdd3f8017076",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1682454374499
+    },
+    "e-63": {
+      "id": "e-63",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "MOUSE_OVER",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-16",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-64"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".features-card-image-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|a7d8be4c-bc04-1258-896d-338fc8d39cc2",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".features-card-image-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|a7d8be4c-bc04-1258-896d-338fc8d39cc2",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1682454405669
+    },
+    "e-64": {
+      "id": "e-64",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "MOUSE_OUT",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-17",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-63"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".features-card-image-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|a7d8be4c-bc04-1258-896d-338fc8d39cc2",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".features-card-image-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|a7d8be4c-bc04-1258-896d-338fc8d39cc2",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": null,
+        "scrollOffsetUnit": null,
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1682454405697
+    },
+    "e-71": {
+      "id": "e-71",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-72"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".deploying-app-title-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|8c853ba8-f592-9c30-b04e-f8c9842dbbcb",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".deploying-app-title-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|8c853ba8-f592-9c30-b04e-f8c9842dbbcb",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1682454600096
+    },
+    "e-73": {
+      "id": "e-73",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-74"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".deploying-app-paragraph-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|e3326f3f-b5da-0492-248b-7de28e12f9e2",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".deploying-app-paragraph-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|e3326f3f-b5da-0492-248b-7de28e12f9e2",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1682454606321
+    },
+    "e-75": {
+      "id": "e-75",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-76"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".deploying-app-link-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|61ef7aee-9814-4aae-d1b8-c3d2abc51541",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".deploying-app-link-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|61ef7aee-9814-4aae-d1b8-c3d2abc51541",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1682454611499
+    },
+    "e-81": {
+      "id": "e-81",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-18",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-82"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".deploying-app-images-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|d872fa4b-ce90-d762-9c05-4f7ab5e206f4",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".deploying-app-images-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|d872fa4b-ce90-d762-9c05-4f7ab5e206f4",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 38,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1682454650471
+    },
+    "e-83": {
+      "id": "e-83",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-84"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".gradient-line",
+        "originalId": "672a19fac4b4b452e1a9eaa0|1da346bf-b188-94ed-13eb-c73cb482c9f0",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".gradient-line",
+          "originalId": "672a19fac4b4b452e1a9eaa0|1da346bf-b188-94ed-13eb-c73cb482c9f0",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1682454845019
+    },
+    "e-85": {
+      "id": "e-85",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-86"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".data-collection-tab-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|b03bfdb8-1c8b-3eda-aa56-436518f227ba",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".data-collection-tab-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|b03bfdb8-1c8b-3eda-aa56-436518f227ba",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1683488300660
+    },
+    "e-91": {
+      "id": "e-91",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-20",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-92"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".stats",
+        "originalId": "672a19fac4b4b452e1a9eaa0|4047fd07-c084-539e-fefb-3de51a41585a",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".stats",
+          "originalId": "672a19fac4b4b452e1a9eaa0|4047fd07-c084-539e-fefb-3de51a41585a",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1683488390958
+    },
+    "e-93": {
+      "id": "e-93",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLLING_IN_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_CONTINUOUS_ACTION",
+        "config": {
+          "actionListId": "a-21",
+          "affectedElements": {},
+          "duration": 0
+        }
+      },
+      "mediaQueries": [
+        "main"
+      ],
+      "target": {
+        "id": "672a19fac4b4b452e1a9eaa0|91958329-3c14-c527-9b0e-9d653d7bd7c4",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "targets": [
+        {
+          "id": "672a19fac4b4b452e1a9eaa0|91958329-3c14-c527-9b0e-9d653d7bd7c4",
+          "appliesTo": "ELEMENT",
+          "styleBlockIds": []
+        }
+      ],
+      "config": [
+        {
+          "continuousParameterGroupId": "a-21-p",
+          "smoothing": 96,
+          "startsEntering": true,
+          "addStartOffset": false,
+          "addOffsetValue": 50,
+          "startsExiting": false,
+          "addEndOffset": false,
+          "endOffsetValue": 50
+        }
+      ],
+      "createdOn": 1683490405651
+    },
+    "e-94": {
+      "id": "e-94",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-22",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-95"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "id": "672a19fac4b4b452e1a9eaa0|ce66b6af-303a-d5db-1fb9-60b85382a8ec",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "targets": [
+        {
+          "id": "672a19fac4b4b452e1a9eaa0|ce66b6af-303a-d5db-1fb9-60b85382a8ec",
+          "appliesTo": "ELEMENT",
+          "styleBlockIds": []
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 15,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1683490813598
+    },
+    "e-96": {
+      "id": "e-96",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "MOUSE_MOVE",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_CONTINUOUS_ACTION",
+        "config": {
+          "actionListId": "a-23",
+          "affectedElements": {},
+          "duration": 0
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".hero-card",
+        "originalId": "672a19fac4b4b452e1a9eaa0|0c684335-918c-f765-979f-8bced67f7913",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".hero-card",
+          "originalId": "672a19fac4b4b452e1a9eaa0|0c684335-918c-f765-979f-8bced67f7913",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": [
+        {
+          "continuousParameterGroupId": "a-23-p",
+          "selectedAxis": "X_AXIS",
+          "basedOn": "ELEMENT",
+          "reverse": false,
+          "smoothing": 98,
+          "restingState": 50
+        },
+        {
+          "continuousParameterGroupId": "a-23-p-2",
+          "selectedAxis": "Y_AXIS",
+          "basedOn": "ELEMENT",
+          "reverse": false,
+          "smoothing": 98,
+          "restingState": 50
+        }
+      ],
+      "createdOn": 1683491233150
+    },
+    "e-97": {
+      "id": "e-97",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLLING_IN_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_CONTINUOUS_ACTION",
+        "config": {
+          "actionListId": "a-24",
+          "affectedElements": {},
+          "duration": 0
+        }
+      },
+      "mediaQueries": [
+        "main"
+      ],
+      "target": {
+        "id": "672a19fac4b4b452e1a9eaa0|d13fb38e-ab14-3270-3d0b-d02d61f4fb37",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "targets": [
+        {
+          "id": "672a19fac4b4b452e1a9eaa0|d13fb38e-ab14-3270-3d0b-d02d61f4fb37",
+          "appliesTo": "ELEMENT",
+          "styleBlockIds": []
+        }
+      ],
+      "config": [
+        {
+          "continuousParameterGroupId": "a-24-p",
+          "smoothing": 94,
+          "startsEntering": false,
+          "addStartOffset": false,
+          "addOffsetValue": 50,
+          "startsExiting": false,
+          "addEndOffset": true,
+          "endOffsetValue": 17
+        }
+      ],
+      "createdOn": 1683496523207
+    },
+    "e-98": {
+      "id": "e-98",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-19",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-99"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".collaborante-image-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|570a3245-e2cd-675f-7038-312461ada22b",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".collaborante-image-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|570a3245-e2cd-675f-7038-312461ada22b",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1683497686381
+    },
+    "e-100": {
+      "id": "e-100",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-101"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".sticky-content-container",
+        "originalId": "672a19fac4b4b452e1a9eaa0|1915a1ec-193b-ef7b-c2e2-aee44605b5e8",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".sticky-content-container",
+          "originalId": "672a19fac4b4b452e1a9eaa0|1915a1ec-193b-ef7b-c2e2-aee44605b5e8",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1702059066303
+    },
+    "e-102": {
+      "id": "e-102",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-25",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-103"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".sticky-phone",
+        "originalId": "672a19fac4b4b452e1a9eaa0|1915a1ec-193b-ef7b-c2e2-aee44605b5fd",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".sticky-phone",
+          "originalId": "672a19fac4b4b452e1a9eaa0|1915a1ec-193b-ef7b-c2e2-aee44605b5fd",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1702069822873
+    },
+    "e-104": {
+      "id": "e-104",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a-25",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-105"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".fade-in-on-scroll",
+        "originalId": "628f30d838105f7cb3ae8e71|454f8225-bb8a-57f8-70b9-84f4d3b4544e",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".fade-in-on-scroll",
+          "originalId": "628f30d838105f7cb3ae8e71|454f8225-bb8a-57f8-70b9-84f4d3b4544e",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1659003967481
+    },
+    "e-106": {
+      "id": "e-106",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-107"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "id": "672a19fac4b4b452e1a9eaa0|b514660d-ae32-7dfd-7d61-70fc1d817cb0",
+        "appliesTo": "ELEMENT",
+        "styleBlockIds": []
+      },
+      "targets": [
+        {
+          "id": "672a19fac4b4b452e1a9eaa0|b514660d-ae32-7dfd-7d61-70fc1d817cb0",
+          "appliesTo": "ELEMENT",
+          "styleBlockIds": []
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1730814908078
+    },
+    "e-108": {
+      "id": "e-108",
+      "name": "",
+      "animationType": "custom",
+      "eventTypeId": "SCROLL_INTO_VIEW",
+      "action": {
+        "id": "",
+        "actionTypeId": "GENERAL_START_ACTION",
+        "config": {
+          "delay": 0,
+          "easing": "",
+          "duration": 0,
+          "actionListId": "a",
+          "affectedElements": {},
+          "playInReverse": false,
+          "autoStopEventId": "e-109"
+        }
+      },
+      "mediaQueries": [
+        "main",
+        "medium",
+        "small",
+        "tiny"
+      ],
+      "target": {
+        "selector": ".cta-phone-holder",
+        "originalId": "672a19fac4b4b452e1a9eaa0|2e1e80e5-9a76-cd28-3a25-9dc62ee55208",
+        "appliesTo": "CLASS"
+      },
+      "targets": [
+        {
+          "selector": ".cta-phone-holder",
+          "originalId": "672a19fac4b4b452e1a9eaa0|2e1e80e5-9a76-cd28-3a25-9dc62ee55208",
+          "appliesTo": "CLASS"
+        }
+      ],
+      "config": {
+        "loop": false,
+        "playInReverse": false,
+        "scrollOffsetValue": 0,
+        "scrollOffsetUnit": "%",
+        "delay": null,
+        "direction": null,
+        "effectIn": null
+      },
+      "createdOn": 1730814915841
+    }
+  },
+  "actionLists": {
+    "a": {
+      "id": "a",
+      "title": "👁 Fade In On Scroll",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-n",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "useEventTarget": true,
+                  "id": "628f30d838105f7cb3ae8e71|454f8225-bb8a-57f8-70b9-84f4d3b4544e"
+                },
+                "yValue": 20,
+                "xUnit": "PX",
+                "yUnit": "px",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-n-2",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "useEventTarget": true,
+                  "id": "628f30d838105f7cb3ae8e71|454f8225-bb8a-57f8-70b9-84f4d3b4544e"
+                },
+                "value": 0,
+                "unit": ""
+              }
+            }
+          ]
+        },
+        {
+          "actionItems": [
+            {
+              "id": "a-n-3",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 300,
+                "easing": "ease",
+                "duration": 1200,
+                "target": {
+                  "useEventTarget": true,
+                  "id": "628f30d838105f7cb3ae8e71|454f8225-bb8a-57f8-70b9-84f4d3b4544e"
+                },
+                "yValue": 0,
+                "xUnit": "PX",
+                "yUnit": "px",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-n-4",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 300,
+                "easing": "ease",
+                "duration": 1200,
+                "target": {
+                  "useEventTarget": true,
+                  "id": "628f30d838105f7cb3ae8e71|454f8225-bb8a-57f8-70b9-84f4d3b4544e"
+                },
+                "value": 1,
+                "unit": ""
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": true,
+      "createdOn": 1659003970898
+    },
+    "a-2": {
+      "id": "a-2",
+      "title": "⏰Animate On Load",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-2-n",
+              "actionTypeId": "TRANSFORM_SKEW",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "selector": ".animate-on-load-01",
+                  "selectorGuids": [
+                    "ae63d310-dcab-c640-89da-3acfb324e036"
+                  ]
+                },
+                "yValue": -3,
+                "xUnit": "DEG",
+                "yUnit": "deg",
+                "zUnit": "DEG"
+              }
+            },
+            {
+              "id": "a-2-n-52",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "selector": ".hero-section-phone-holder-2",
+                  "selectorGuids": [
+                    "76e71fea-03bf-9b8d-6a43-d9291621a3ff"
+                  ]
+                },
+                "value": 0,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-2-n-38",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "selector": ".blured-bg",
+                  "selectorGuids": [
+                    "692e2a65-b4c1-0464-c25a-4186493c89e1"
+                  ]
+                },
+                "value": 0,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-2-n-16",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "yValue": 115,
+                "xUnit": "DEG",
+                "yUnit": "deg",
+                "zUnit": "DEG"
+              }
+            },
+            {
+              "id": "a-2-n-15",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "value": 0,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-2-n-14",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "yValue": 60,
+                "xUnit": "PX",
+                "yUnit": "px",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-2-n-13",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "selector": ".navbar",
+                  "selectorGuids": [
+                    "5db79913-ce1f-b210-8717-ee76f7ca6cdf"
+                  ]
+                },
+                "value": 0,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-2-n-2",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "selector": ".animate-on-load-01",
+                  "selectorGuids": [
+                    "ae63d310-dcab-c640-89da-3acfb324e036"
+                  ]
+                },
+                "xValue": 90,
+                "yValue": null,
+                "zValue": null,
+                "xUnit": "deg",
+                "yUnit": "deg",
+                "zUnit": "deg"
+              }
+            },
+            {
+              "id": "a-2-n-3",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "selector": ".animate-on-load-01",
+                  "selectorGuids": [
+                    "ae63d310-dcab-c640-89da-3acfb324e036"
+                  ]
+                },
+                "xValue": 0.9,
+                "yValue": 0.9,
+                "locked": true
+              }
+            },
+            {
+              "id": "a-2-n-4",
+              "actionTypeId": "STYLE_FILTER",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "selector": ".animate-on-load-01",
+                  "selectorGuids": [
+                    "ae63d310-dcab-c640-89da-3acfb324e036"
+                  ]
+                },
+                "filters": [
+                  {
+                    "type": "blur",
+                    "filterId": "9601",
+                    "value": 12,
+                    "unit": "px"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "a-2-n-5",
+              "actionTypeId": "TRANSFORM_SKEW",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "selector": ".animate-on-load-02",
+                  "selectorGuids": [
+                    "23b58c7d-13f9-9d9e-2c64-e5a86a15e639"
+                  ]
+                },
+                "yValue": -3,
+                "xUnit": "DEG",
+                "yUnit": "deg",
+                "zUnit": "DEG"
+              }
+            },
+            {
+              "id": "a-2-n-8",
+              "actionTypeId": "STYLE_FILTER",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "selector": ".animate-on-load-02",
+                  "selectorGuids": [
+                    "23b58c7d-13f9-9d9e-2c64-e5a86a15e639"
+                  ]
+                },
+                "filters": [
+                  {
+                    "type": "blur",
+                    "filterId": "9601",
+                    "value": 12,
+                    "unit": "px"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "a-2-n-7",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "selector": ".animate-on-load-02",
+                  "selectorGuids": [
+                    "23b58c7d-13f9-9d9e-2c64-e5a86a15e639"
+                  ]
+                },
+                "xValue": 0.9,
+                "yValue": 0.9,
+                "locked": true
+              }
+            },
+            {
+              "id": "a-2-n-6",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "selector": ".animate-on-load-02",
+                  "selectorGuids": [
+                    "23b58c7d-13f9-9d9e-2c64-e5a86a15e639"
+                  ]
+                },
+                "xValue": 90,
+                "yValue": null,
+                "zValue": null,
+                "xUnit": "deg",
+                "yUnit": "deg",
+                "zUnit": "deg"
+              }
+            },
+            {
+              "id": "a-2-n-9",
+              "actionTypeId": "TRANSFORM_SKEW",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "selector": ".hero-section-phone-holder-2",
+                  "selectorGuids": [
+                    "76e71fea-03bf-9b8d-6a43-d9291621a3ff"
+                  ]
+                },
+                "yValue": -3,
+                "xUnit": "DEG",
+                "yUnit": "deg",
+                "zUnit": "DEG"
+              }
+            },
+            {
+              "id": "a-2-n-12",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "selector": ".hero-section-phone-holder-2",
+                  "selectorGuids": [
+                    "76e71fea-03bf-9b8d-6a43-d9291621a3ff"
+                  ]
+                },
+                "xValue": 90,
+                "yValue": null,
+                "zValue": null,
+                "xUnit": "deg",
+                "yUnit": "deg",
+                "zUnit": "deg"
+              }
+            },
+            {
+              "id": "a-2-n-11",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "selector": ".hero-section-phone-holder-2",
+                  "selectorGuids": [
+                    "76e71fea-03bf-9b8d-6a43-d9291621a3ff"
+                  ]
+                },
+                "xValue": 0.9,
+                "yValue": 0.9,
+                "locked": true
+              }
+            },
+            {
+              "id": "a-2-n-10",
+              "actionTypeId": "STYLE_FILTER",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "selector": ".hero-section-phone-holder-2",
+                  "selectorGuids": [
+                    "76e71fea-03bf-9b8d-6a43-d9291621a3ff"
+                  ]
+                },
+                "filters": [
+                  {
+                    "type": "blur",
+                    "filterId": "9601",
+                    "value": 12,
+                    "unit": "px"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "actionItems": [
+            {
+              "id": "a-2-n-26",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 0,
+                "easing": "outExpo",
+                "duration": 1200,
+                "target": {
+                  "selector": ".animate-on-load-01",
+                  "selectorGuids": [
+                    "ae63d310-dcab-c640-89da-3acfb324e036"
+                  ]
+                },
+                "xValue": 0,
+                "yValue": null,
+                "zValue": null,
+                "xUnit": "deg",
+                "yUnit": "deg",
+                "zUnit": "deg"
+              }
+            },
+            {
+              "id": "a-2-n-28",
+              "actionTypeId": "STYLE_FILTER",
+              "config": {
+                "delay": 0,
+                "easing": "outExpo",
+                "duration": 1200,
+                "target": {
+                  "selector": ".animate-on-load-01",
+                  "selectorGuids": [
+                    "ae63d310-dcab-c640-89da-3acfb324e036"
+                  ]
+                },
+                "filters": [
+                  {
+                    "type": "blur",
+                    "filterId": "9601",
+                    "value": 0,
+                    "unit": "px"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "a-2-n-27",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 0,
+                "easing": "outExpo",
+                "duration": 1200,
+                "target": {
+                  "selector": ".animate-on-load-01",
+                  "selectorGuids": [
+                    "ae63d310-dcab-c640-89da-3acfb324e036"
+                  ]
+                },
+                "xValue": 1,
+                "yValue": 1,
+                "locked": true
+              }
+            },
+            {
+              "id": "a-2-n-29",
+              "actionTypeId": "TRANSFORM_SKEW",
+              "config": {
+                "delay": 0,
+                "easing": "outExpo",
+                "duration": 1200,
+                "target": {
+                  "selector": ".animate-on-load-01",
+                  "selectorGuids": [
+                    "ae63d310-dcab-c640-89da-3acfb324e036"
+                  ]
+                },
+                "yValue": 0,
+                "xUnit": "DEG",
+                "yUnit": "deg",
+                "zUnit": "DEG"
+              }
+            },
+            {
+              "id": "a-2-n-30",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 100,
+                "easing": "outExpo",
+                "duration": 1200,
+                "target": {
+                  "selector": ".animate-on-load-02",
+                  "selectorGuids": [
+                    "23b58c7d-13f9-9d9e-2c64-e5a86a15e639"
+                  ]
+                },
+                "xValue": 0,
+                "yValue": null,
+                "zValue": null,
+                "xUnit": "deg",
+                "yUnit": "deg",
+                "zUnit": "deg"
+              }
+            },
+            {
+              "id": "a-2-n-33",
+              "actionTypeId": "TRANSFORM_SKEW",
+              "config": {
+                "delay": 100,
+                "easing": "outExpo",
+                "duration": 1200,
+                "target": {
+                  "selector": ".animate-on-load-02",
+                  "selectorGuids": [
+                    "23b58c7d-13f9-9d9e-2c64-e5a86a15e639"
+                  ]
+                },
+                "yValue": 0,
+                "xUnit": "DEG",
+                "yUnit": "deg",
+                "zUnit": "DEG"
+              }
+            },
+            {
+              "id": "a-2-n-32",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 100,
+                "easing": "outExpo",
+                "duration": 1200,
+                "target": {
+                  "selector": ".animate-on-load-02",
+                  "selectorGuids": [
+                    "23b58c7d-13f9-9d9e-2c64-e5a86a15e639"
+                  ]
+                },
+                "xValue": 1,
+                "yValue": 1,
+                "locked": true
+              }
+            },
+            {
+              "id": "a-2-n-31",
+              "actionTypeId": "STYLE_FILTER",
+              "config": {
+                "delay": 100,
+                "easing": "outExpo",
+                "duration": 1200,
+                "target": {
+                  "selector": ".animate-on-load-02",
+                  "selectorGuids": [
+                    "23b58c7d-13f9-9d9e-2c64-e5a86a15e639"
+                  ]
+                },
+                "filters": [
+                  {
+                    "type": "blur",
+                    "filterId": "9601",
+                    "value": 0,
+                    "unit": "px"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "a-2-n-34",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 200,
+                "easing": "outExpo",
+                "duration": 1200,
+                "target": {
+                  "selector": ".hero-section-phone-holder-2",
+                  "selectorGuids": [
+                    "76e71fea-03bf-9b8d-6a43-d9291621a3ff"
+                  ]
+                },
+                "xValue": 0,
+                "yValue": null,
+                "zValue": null,
+                "xUnit": "deg",
+                "yUnit": "deg",
+                "zUnit": "deg"
+              }
+            },
+            {
+              "id": "a-2-n-37",
+              "actionTypeId": "STYLE_FILTER",
+              "config": {
+                "delay": 200,
+                "easing": "outExpo",
+                "duration": 1200,
+                "target": {
+                  "selector": ".hero-section-phone-holder-2",
+                  "selectorGuids": [
+                    "76e71fea-03bf-9b8d-6a43-d9291621a3ff"
+                  ]
+                },
+                "filters": [
+                  {
+                    "type": "blur",
+                    "filterId": "9601",
+                    "value": 0,
+                    "unit": "px"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "a-2-n-36",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 200,
+                "easing": "outExpo",
+                "duration": 1200,
+                "target": {
+                  "selector": ".hero-section-phone-holder-2",
+                  "selectorGuids": [
+                    "76e71fea-03bf-9b8d-6a43-d9291621a3ff"
+                  ]
+                },
+                "xValue": 1,
+                "yValue": 1,
+                "locked": true
+              }
+            },
+            {
+              "id": "a-2-n-35",
+              "actionTypeId": "TRANSFORM_SKEW",
+              "config": {
+                "delay": 200,
+                "easing": "outExpo",
+                "duration": 1200,
+                "target": {
+                  "selector": ".hero-section-phone-holder-2",
+                  "selectorGuids": [
+                    "76e71fea-03bf-9b8d-6a43-d9291621a3ff"
+                  ]
+                },
+                "yValue": 0,
+                "xUnit": "DEG",
+                "yUnit": "deg",
+                "zUnit": "DEG"
+              }
+            },
+            {
+              "id": "a-2-n-53",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 200,
+                "easing": "outExpo",
+                "duration": 1200,
+                "target": {
+                  "selector": ".hero-section-phone-holder-2",
+                  "selectorGuids": [
+                    "76e71fea-03bf-9b8d-6a43-d9291621a3ff"
+                  ]
+                },
+                "value": 1,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-2-n-39",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 200,
+                "easing": "outExpo",
+                "duration": 2900,
+                "target": {
+                  "selector": ".blured-bg",
+                  "selectorGuids": [
+                    "692e2a65-b4c1-0464-c25a-4186493c89e1"
+                  ]
+                },
+                "value": 0.49,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-2-n-54",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 200,
+                "easing": "outExpo",
+                "duration": 500,
+                "target": {
+                  "selector": ".navbar",
+                  "selectorGuids": [
+                    "5db79913-ce1f-b210-8717-ee76f7ca6cdf"
+                  ]
+                },
+                "value": 1,
+                "unit": ""
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": true,
+      "createdOn": 1675625341467
+    },
+    "a-7": {
+      "id": "a-7",
+      "title": "Reviews - Infinite",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-7-n-4",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "selector": ".reviews-logos-container",
+                  "selectorGuids": [
+                    "a392520d-145f-62e3-e104-b2c65008c49d"
+                  ]
+                },
+                "xValue": 0,
+                "xUnit": "%",
+                "yUnit": "PX",
+                "zUnit": "PX"
+              }
+            }
+          ]
+        },
+        {
+          "actionItems": [
+            {
+              "id": "a-7-n-5",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 40000,
+                "target": {
+                  "selector": ".reviews-logos-container",
+                  "selectorGuids": [
+                    "a392520d-145f-62e3-e104-b2c65008c49d"
+                  ]
+                },
+                "xValue": -100,
+                "xUnit": "%",
+                "yUnit": "PX",
+                "zUnit": "PX"
+              }
+            }
+          ]
+        },
+        {
+          "actionItems": [
+            {
+              "id": "a-7-n-6",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 60000,
+                "target": {
+                  "selector": ".reviews-logos-container",
+                  "selectorGuids": [
+                    "a392520d-145f-62e3-e104-b2c65008c49d"
+                  ]
+                },
+                "xValue": 0,
+                "xUnit": "%",
+                "yUnit": "PX",
+                "zUnit": "PX"
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": true,
+      "createdOn": 1675682224791
+    },
+    "a-6": {
+      "id": "a-6",
+      "title": "Early Access - On View",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-6-n",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "xValue": 65,
+                "xUnit": "px",
+                "yUnit": "PX",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-6-n-5",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "value": 0,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-6-n-4",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "xValue": 177,
+                "xUnit": "px",
+                "yUnit": "PX",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-6-n-3",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "value": 0,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-6-n-2",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "yValue": -55,
+                "xUnit": "DEG",
+                "yUnit": "deg",
+                "zUnit": "DEG"
+              }
+            }
+          ]
+        },
+        {
+          "actionItems": [
+            {
+              "id": "a-6-n-6",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 600,
+                "target": {},
+                "xValue": 0,
+                "xUnit": "px",
+                "yUnit": "PX",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-6-n-10",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 600,
+                "target": {},
+                "yValue": 0,
+                "xUnit": "DEG",
+                "yUnit": "deg",
+                "zUnit": "DEG"
+              }
+            },
+            {
+              "id": "a-6-n-9",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 600,
+                "target": {},
+                "value": 1,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-6-n-7",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 100,
+                "easing": "ease",
+                "duration": 600,
+                "target": {},
+                "value": 1,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-6-n-8",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 100,
+                "easing": "ease",
+                "duration": 600,
+                "target": {},
+                "xValue": 0,
+                "xUnit": "px",
+                "yUnit": "PX",
+                "zUnit": "PX"
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": true,
+      "createdOn": 1675681446869
+    },
+    "a-8": {
+      "id": "a-8",
+      "title": "Power Feature -> Hover On",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-8-n-2",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "value": 0,
+                "unit": ""
+              }
+            }
+          ]
+        },
+        {
+          "actionItems": [
+            {
+              "id": "a-8-n-4",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "value": 1,
+                "unit": ""
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": true,
+      "createdOn": 1675682291672
+    },
+    "a-9": {
+      "id": "a-9",
+      "title": "Power Feature -> Hover Out",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-9-n",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "value": 0,
+                "unit": ""
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": false,
+      "createdOn": 1675682291672
+    },
+    "a-10": {
+      "id": "a-10",
+      "title": "Slider In View",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-10-n-5",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "value": 1,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-10-n-6",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "xValue": 1,
+                "yValue": 1,
+                "locked": true
+              }
+            }
+          ]
+        },
+        {
+          "actionItems": [
+            {
+              "id": "a-10-n-3",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "value": 1,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-10-n-4",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "xValue": 1,
+                "yValue": 1,
+                "locked": true
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": true,
+      "createdOn": 1675693243917
+    },
+    "a-11": {
+      "id": "a-11",
+      "title": "Slider Out of view",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-11-n-3",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "value": 0.5,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-11-n-4",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "xValue": 0.9,
+                "yValue": 0.9,
+                "locked": true
+              }
+            }
+          ]
+        },
+        {
+          "actionItems": [
+            {
+              "id": "a-11-n",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "value": 0.5,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-11-n-2",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "xValue": 0.9,
+                "yValue": 0.9,
+                "locked": true
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": true,
+      "createdOn": 1675693243917
+    },
+    "a-14": {
+      "id": "a-14",
+      "title": "Tab -> Active",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-14-n",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "value": 0.4,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-14-n-2",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "value": 0.4,
+                "unit": ""
+              }
+            }
+          ]
+        },
+        {
+          "actionItems": [
+            {
+              "id": "a-14-n-3",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "value": 1,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-14-n-4",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "value": 1,
+                "unit": ""
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": true,
+      "createdOn": 1680819971623
+    },
+    "a-15": {
+      "id": "a-15",
+      "title": "Tab -> In-Active",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-15-n",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "value": 0.4,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-15-n-2",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "value": 0.4,
+                "unit": ""
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": false,
+      "createdOn": 1680819971623
+    },
+    "a-16": {
+      "id": "a-16",
+      "title": "Powerful Features -> Hover On",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-16-n",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "value": 1,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-16-n-3",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "zValue": 0,
+                "xUnit": "DEG",
+                "yUnit": "DEG",
+                "zUnit": "deg"
+              }
+            },
+            {
+              "id": "a-16-n-2",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "xValue": 1,
+                "yValue": 1,
+                "locked": true
+              }
+            }
+          ]
+        },
+        {
+          "actionItems": [
+            {
+              "id": "a-16-n-4",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 800,
+                "target": {},
+                "value": 0,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-16-n-6",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 800,
+                "target": {},
+                "xValue": 1.1,
+                "yValue": 1.1,
+                "locked": true
+              }
+            },
+            {
+              "id": "a-16-n-5",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 5000,
+                "target": {},
+                "zValue": 180,
+                "xUnit": "DEG",
+                "yUnit": "DEG",
+                "zUnit": "deg"
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": true,
+      "createdOn": 1682454408317
+    },
+    "a-17": {
+      "id": "a-17",
+      "title": "Powerful Features -> Hover Out",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-17-n",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "value": 1,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-17-n-2",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "zValue": 0,
+                "xUnit": "DEG",
+                "yUnit": "DEG",
+                "zUnit": "deg"
+              }
+            },
+            {
+              "id": "a-17-n-3",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "xValue": 1,
+                "yValue": 1,
+                "locked": true
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": false,
+      "createdOn": 1682454408317
+    },
+    "a-18": {
+      "id": "a-18",
+      "title": "The Power -> On View Animation",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-18-n",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "xValue": 130,
+                "xUnit": "%",
+                "yUnit": "PX",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-18-n-7",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "zValue": 50,
+                "xUnit": "DEG",
+                "yUnit": "DEG",
+                "zUnit": "deg"
+              }
+            },
+            {
+              "id": "a-18-n-2",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "yValue": -180,
+                "xUnit": "DEG",
+                "yUnit": "deg",
+                "zUnit": "DEG"
+              }
+            },
+            {
+              "id": "a-18-n-3",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "value": 0,
+                "unit": ""
+              }
+            }
+          ]
+        },
+        {
+          "actionItems": [
+            {
+              "id": "a-18-n-4",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 900,
+                "target": {},
+                "xValue": 0,
+                "xUnit": "%",
+                "yUnit": "PX",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-18-n-6",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 900,
+                "target": {},
+                "value": 1,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-18-n-5",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 900,
+                "target": {},
+                "yValue": 0,
+                "xUnit": "DEG",
+                "yUnit": "deg",
+                "zUnit": "DEG"
+              }
+            },
+            {
+              "id": "a-18-n-8",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 100,
+                "easing": "ease",
+                "duration": 1200,
+                "target": {},
+                "zValue": 0,
+                "xUnit": "DEG",
+                "yUnit": "DEG",
+                "zUnit": "deg"
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": true,
+      "createdOn": 1682454655586
+    },
+    "a-20": {
+      "id": "a-20",
+      "title": "Stats Fade In - 01",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-20-n",
+              "actionTypeId": "STYLE_SIZE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "heightValue": 0,
+                "widthUnit": "PX",
+                "heightUnit": "%",
+                "locked": false
+              }
+            },
+            {
+              "id": "a-20-n-2",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "value": 0,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-20-n-3",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "yValue": 30,
+                "xUnit": "PX",
+                "yUnit": "px",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-20-n-4",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "value": 0,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-20-n-5",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "yValue": 30,
+                "xUnit": "PX",
+                "yUnit": "px",
+                "zUnit": "PX"
+              }
+            }
+          ]
+        },
+        {
+          "actionItems": [
+            {
+              "id": "a-20-n-6",
+              "actionTypeId": "STYLE_SIZE",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "heightValue": 100,
+                "widthUnit": "PX",
+                "heightUnit": "%",
+                "locked": false
+              }
+            },
+            {
+              "id": "a-20-n-7",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 300,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "yValue": 0,
+                "xUnit": "PX",
+                "yUnit": "px",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-20-n-8",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 300,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "value": 1,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-20-n-9",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 600,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "yValue": 0,
+                "xUnit": "PX",
+                "yUnit": "px",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-20-n-10",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 600,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "value": 1,
+                "unit": ""
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": true,
+      "createdOn": 1683488393448
+    },
+    "a-21": {
+      "id": "a-21",
+      "title": "Pricing Animation",
+      "continuousParameterGroups": [
+        {
+          "id": "a-21-p",
+          "type": "SCROLL_PROGRESS",
+          "parameterLabel": "Scroll",
+          "continuousActionGroups": [
+            {
+              "keyframe": 10,
+              "actionItems": [
+                {
+                  "id": "a-21-n",
+                  "actionTypeId": "TRANSFORM_MOVE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-table._01",
+                      "selectorGuids": [
+                        "2cc2c129-41c1-2e9f-3051-bcb54c33ac06",
+                        "60829f1e-2d50-928c-53f2-9aa15c6a7649"
+                      ]
+                    },
+                    "yValue": 160,
+                    "xUnit": "PX",
+                    "yUnit": "px",
+                    "zUnit": "PX"
+                  }
+                },
+                {
+                  "id": "a-21-n-3",
+                  "actionTypeId": "TRANSFORM_SCALE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-table._01",
+                      "selectorGuids": [
+                        "2cc2c129-41c1-2e9f-3051-bcb54c33ac06",
+                        "60829f1e-2d50-928c-53f2-9aa15c6a7649"
+                      ]
+                    },
+                    "xValue": 0.9,
+                    "yValue": 0.9,
+                    "locked": true
+                  }
+                },
+                {
+                  "id": "a-21-n-4",
+                  "actionTypeId": "STYLE_OPACITY",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-table._01",
+                      "selectorGuids": [
+                        "2cc2c129-41c1-2e9f-3051-bcb54c33ac06",
+                        "60829f1e-2d50-928c-53f2-9aa15c6a7649"
+                      ]
+                    },
+                    "value": 0.5,
+                    "unit": ""
+                  }
+                },
+                {
+                  "id": "a-21-n-8",
+                  "actionTypeId": "TRANSFORM_MOVE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-block",
+                      "selectorGuids": [
+                        "4acb3e40-ffa8-045e-99f8-7f1e57cc1e9f"
+                      ]
+                    },
+                    "yValue": 76,
+                    "xUnit": "PX",
+                    "yUnit": "px",
+                    "zUnit": "PX"
+                  }
+                },
+                {
+                  "id": "a-21-n-9",
+                  "actionTypeId": "TRANSFORM_SCALE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-block",
+                      "selectorGuids": [
+                        "4acb3e40-ffa8-045e-99f8-7f1e57cc1e9f"
+                      ]
+                    },
+                    "xValue": 0.9,
+                    "yValue": 0.9,
+                    "locked": true
+                  }
+                },
+                {
+                  "id": "a-21-n-10",
+                  "actionTypeId": "STYLE_OPACITY",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-block",
+                      "selectorGuids": [
+                        "4acb3e40-ffa8-045e-99f8-7f1e57cc1e9f"
+                      ]
+                    },
+                    "value": 0.5,
+                    "unit": ""
+                  }
+                },
+                {
+                  "id": "a-21-n-14",
+                  "actionTypeId": "TRANSFORM_MOVE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-table._02",
+                      "selectorGuids": [
+                        "2cc2c129-41c1-2e9f-3051-bcb54c33ac06",
+                        "6d760413-09f8-d8d8-65c8-f87056480c21"
+                      ]
+                    },
+                    "yValue": 160,
+                    "xUnit": "PX",
+                    "yUnit": "px",
+                    "zUnit": "PX"
+                  }
+                },
+                {
+                  "id": "a-21-n-15",
+                  "actionTypeId": "TRANSFORM_SCALE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-table._02",
+                      "selectorGuids": [
+                        "2cc2c129-41c1-2e9f-3051-bcb54c33ac06",
+                        "6d760413-09f8-d8d8-65c8-f87056480c21"
+                      ]
+                    },
+                    "xValue": 0.9,
+                    "yValue": 0.9,
+                    "locked": true
+                  }
+                },
+                {
+                  "id": "a-21-n-16",
+                  "actionTypeId": "STYLE_OPACITY",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-table._02",
+                      "selectorGuids": [
+                        "2cc2c129-41c1-2e9f-3051-bcb54c33ac06",
+                        "6d760413-09f8-d8d8-65c8-f87056480c21"
+                      ]
+                    },
+                    "value": 0.5,
+                    "unit": ""
+                  }
+                }
+              ]
+            },
+            {
+              "keyframe": 30,
+              "actionItems": [
+                {
+                  "id": "a-21-n-11",
+                  "actionTypeId": "TRANSFORM_MOVE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-block",
+                      "selectorGuids": [
+                        "4acb3e40-ffa8-045e-99f8-7f1e57cc1e9f"
+                      ]
+                    },
+                    "yValue": 0,
+                    "xUnit": "PX",
+                    "yUnit": "px",
+                    "zUnit": "PX"
+                  }
+                },
+                {
+                  "id": "a-21-n-12",
+                  "actionTypeId": "TRANSFORM_SCALE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-block",
+                      "selectorGuids": [
+                        "4acb3e40-ffa8-045e-99f8-7f1e57cc1e9f"
+                      ]
+                    },
+                    "xValue": 0.95,
+                    "yValue": 0.95,
+                    "locked": true
+                  }
+                },
+                {
+                  "id": "a-21-n-13",
+                  "actionTypeId": "STYLE_OPACITY",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-block",
+                      "selectorGuids": [
+                        "4acb3e40-ffa8-045e-99f8-7f1e57cc1e9f"
+                      ]
+                    },
+                    "value": 1,
+                    "unit": ""
+                  }
+                },
+                {
+                  "id": "a-21-n-17",
+                  "actionTypeId": "TRANSFORM_MOVE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-table._02",
+                      "selectorGuids": [
+                        "2cc2c129-41c1-2e9f-3051-bcb54c33ac06",
+                        "6d760413-09f8-d8d8-65c8-f87056480c21"
+                      ]
+                    },
+                    "yValue": 0,
+                    "xUnit": "PX",
+                    "yUnit": "px",
+                    "zUnit": "PX"
+                  }
+                },
+                {
+                  "id": "a-21-n-18",
+                  "actionTypeId": "TRANSFORM_SCALE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-table._02",
+                      "selectorGuids": [
+                        "2cc2c129-41c1-2e9f-3051-bcb54c33ac06",
+                        "6d760413-09f8-d8d8-65c8-f87056480c21"
+                      ]
+                    },
+                    "xValue": 0.95,
+                    "yValue": 0.95,
+                    "locked": true
+                  }
+                },
+                {
+                  "id": "a-21-n-19",
+                  "actionTypeId": "STYLE_OPACITY",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-table._02",
+                      "selectorGuids": [
+                        "2cc2c129-41c1-2e9f-3051-bcb54c33ac06",
+                        "6d760413-09f8-d8d8-65c8-f87056480c21"
+                      ]
+                    },
+                    "value": 1,
+                    "unit": ""
+                  }
+                }
+              ]
+            },
+            {
+              "keyframe": 35,
+              "actionItems": [
+                {
+                  "id": "a-21-n-5",
+                  "actionTypeId": "TRANSFORM_MOVE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-table._01",
+                      "selectorGuids": [
+                        "2cc2c129-41c1-2e9f-3051-bcb54c33ac06",
+                        "60829f1e-2d50-928c-53f2-9aa15c6a7649"
+                      ]
+                    },
+                    "yValue": 0,
+                    "xUnit": "PX",
+                    "yUnit": "px",
+                    "zUnit": "PX"
+                  }
+                },
+                {
+                  "id": "a-21-n-6",
+                  "actionTypeId": "TRANSFORM_SCALE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-table._01",
+                      "selectorGuids": [
+                        "2cc2c129-41c1-2e9f-3051-bcb54c33ac06",
+                        "60829f1e-2d50-928c-53f2-9aa15c6a7649"
+                      ]
+                    },
+                    "xValue": 0.95,
+                    "yValue": 0.95,
+                    "locked": true
+                  }
+                },
+                {
+                  "id": "a-21-n-7",
+                  "actionTypeId": "STYLE_OPACITY",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "selector": ".pricing-table._01",
+                      "selectorGuids": [
+                        "2cc2c129-41c1-2e9f-3051-bcb54c33ac06",
+                        "60829f1e-2d50-928c-53f2-9aa15c6a7649"
+                      ]
+                    },
+                    "value": 1,
+                    "unit": ""
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "createdOn": 1683490411697
+    },
+    "a-22": {
+      "id": "a-22",
+      "title": "CTA On View",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-22-n",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "xValue": 0.9,
+                "yValue": 0.9,
+                "locked": true
+              }
+            },
+            {
+              "id": "a-22-n-4",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "value": 0,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-22-n-3",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "yValue": 60,
+                "xUnit": "PX",
+                "yUnit": "px",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-22-n-2",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "value": 0,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-22-n-5",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "useEventTarget": "CHILDREN",
+                  "selector": ".button.white",
+                  "selectorGuids": [
+                    "a4083756-4a2d-f846-9988-48f343c7c9d4",
+                    "2a0e96f3-f36e-2d9c-f278-19a2fa66ad34"
+                  ]
+                },
+                "value": 0,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-22-n-6",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "useEventTarget": "CHILDREN",
+                  "selector": ".button.white",
+                  "selectorGuids": [
+                    "a4083756-4a2d-f846-9988-48f343c7c9d4",
+                    "2a0e96f3-f36e-2d9c-f278-19a2fa66ad34"
+                  ]
+                },
+                "yValue": 60,
+                "xUnit": "PX",
+                "yUnit": "px",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-22-n-7",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "value": 0,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-22-n-8",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {},
+                "yValue": 70,
+                "xUnit": "PX",
+                "yUnit": "%",
+                "zUnit": "PX"
+              }
+            }
+          ]
+        },
+        {
+          "actionItems": [
+            {
+              "id": "a-22-n-9",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "xValue": 1,
+                "yValue": 1,
+                "locked": true
+              }
+            },
+            {
+              "id": "a-22-n-10",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "value": 1,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-22-n-11",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 200,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "value": 1,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-22-n-12",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 200,
+                "easing": "ease",
+                "duration": 700,
+                "target": {},
+                "yValue": 0,
+                "xUnit": "PX",
+                "yUnit": "px",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-22-n-13",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 400,
+                "easing": "ease",
+                "duration": 700,
+                "target": {
+                  "useEventTarget": "CHILDREN",
+                  "selector": ".button.white",
+                  "selectorGuids": [
+                    "a4083756-4a2d-f846-9988-48f343c7c9d4",
+                    "2a0e96f3-f36e-2d9c-f278-19a2fa66ad34"
+                  ]
+                },
+                "value": 1,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-22-n-14",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 400,
+                "easing": "ease",
+                "duration": 700,
+                "target": {
+                  "useEventTarget": "CHILDREN",
+                  "selector": ".button.white",
+                  "selectorGuids": [
+                    "a4083756-4a2d-f846-9988-48f343c7c9d4",
+                    "2a0e96f3-f36e-2d9c-f278-19a2fa66ad34"
+                  ]
+                },
+                "yValue": 0,
+                "xUnit": "PX",
+                "yUnit": "px",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-22-n-15",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 600,
+                "easing": "ease",
+                "duration": 1500,
+                "target": {},
+                "value": 1,
+                "unit": ""
+              }
+            },
+            {
+              "id": "a-22-n-16",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 600,
+                "easing": "ease",
+                "duration": 1500,
+                "target": {},
+                "yValue": 0,
+                "xUnit": "PX",
+                "yUnit": "%",
+                "zUnit": "PX"
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": true,
+      "createdOn": 1683490818186
+    },
+    "a-23": {
+      "id": "a-23",
+      "title": "Hero Cards Hover",
+      "continuousParameterGroups": [
+        {
+          "id": "a-23-p",
+          "type": "MOUSE_X",
+          "parameterLabel": "Mouse X",
+          "continuousActionGroups": [
+            {
+              "keyframe": 0,
+              "actionItems": [
+                {
+                  "id": "a-23-n",
+                  "actionTypeId": "TRANSFORM_ROTATE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {},
+                    "yValue": -45,
+                    "xUnit": "DEG",
+                    "yUnit": "deg",
+                    "zUnit": "DEG"
+                  }
+                }
+              ]
+            },
+            {
+              "keyframe": 100,
+              "actionItems": [
+                {
+                  "id": "a-23-n-2",
+                  "actionTypeId": "TRANSFORM_ROTATE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {},
+                    "yValue": 45,
+                    "xUnit": "DEG",
+                    "yUnit": "deg",
+                    "zUnit": "DEG"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a-23-p-2",
+          "type": "MOUSE_Y",
+          "parameterLabel": "Mouse Y",
+          "continuousActionGroups": [
+            {
+              "keyframe": 0,
+              "actionItems": [
+                {
+                  "id": "a-23-n-4",
+                  "actionTypeId": "TRANSFORM_ROTATE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {},
+                    "xValue": 45,
+                    "yValue": null,
+                    "xUnit": "deg",
+                    "yUnit": "deg",
+                    "zUnit": "DEG"
+                  }
+                }
+              ]
+            },
+            {
+              "keyframe": 100,
+              "actionItems": [
+                {
+                  "id": "a-23-n-5",
+                  "actionTypeId": "TRANSFORM_ROTATE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {},
+                    "xValue": -45,
+                    "yValue": null,
+                    "xUnit": "deg",
+                    "yUnit": "deg",
+                    "zUnit": "DEG"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "createdOn": 1683491237791
+    },
+    "a-24": {
+      "id": "a-24",
+      "title": "Hero Section Animation",
+      "continuousParameterGroups": [
+        {
+          "id": "a-24-p",
+          "type": "SCROLL_PROGRESS",
+          "parameterLabel": "Scroll",
+          "continuousActionGroups": [
+            {
+              "keyframe": 0,
+              "actionItems": [
+                {
+                  "id": "a-24-n",
+                  "actionTypeId": "TRANSFORM_MOVE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "useEventTarget": "CHILDREN",
+                      "selector": ".container",
+                      "selectorGuids": [
+                        "a4083756-4a2d-f846-9988-48f343c7c9d0"
+                      ]
+                    },
+                    "yValue": 0,
+                    "xUnit": "PX",
+                    "yUnit": "px",
+                    "zUnit": "PX"
+                  }
+                },
+                {
+                  "id": "a-24-n-10",
+                  "actionTypeId": "TRANSFORM_MOVE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "useEventTarget": "CHILDREN",
+                      "selector": ".hero-phone-holder",
+                      "selectorGuids": [
+                        "b433ad94-fe88-0572-80a3-b10d7c653646"
+                      ]
+                    },
+                    "yValue": 0,
+                    "xUnit": "PX",
+                    "yUnit": "px",
+                    "zUnit": "PX"
+                  }
+                }
+              ]
+            },
+            {
+              "keyframe": 46,
+              "actionItems": [
+                {
+                  "id": "a-24-n-6",
+                  "actionTypeId": "TRANSFORM_MOVE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "useEventTarget": "CHILDREN",
+                      "selector": ".container",
+                      "selectorGuids": [
+                        "a4083756-4a2d-f846-9988-48f343c7c9d0"
+                      ]
+                    },
+                    "yValue": 150,
+                    "xUnit": "PX",
+                    "yUnit": "px",
+                    "zUnit": "PX"
+                  }
+                },
+                {
+                  "id": "a-24-n-11",
+                  "actionTypeId": "TRANSFORM_MOVE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "useEventTarget": "CHILDREN",
+                      "selector": ".hero-phone-holder",
+                      "selectorGuids": [
+                        "b433ad94-fe88-0572-80a3-b10d7c653646"
+                      ]
+                    },
+                    "yValue": -20,
+                    "xUnit": "PX",
+                    "yUnit": "px",
+                    "zUnit": "PX"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "createdOn": 1683496528378
+    },
+    "a-19": {
+      "id": "a-19",
+      "title": "Image Fade In On View",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-19-n",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "useEventTarget": "CHILDREN",
+                  "selector": ".collaborate-image",
+                  "selectorGuids": [
+                    "e929fe1b-01a0-b7e7-f085-c43bd6931f55"
+                  ]
+                },
+                "xValue": 120,
+                "xUnit": "%",
+                "yUnit": "PX",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-19-n-4",
+              "actionTypeId": "TRANSFORM_SKEW",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "useEventTarget": "CHILDREN",
+                  "selector": ".collaborate-image",
+                  "selectorGuids": [
+                    "e929fe1b-01a0-b7e7-f085-c43bd6931f55"
+                  ]
+                },
+                "xValue": 6,
+                "xUnit": "deg",
+                "yUnit": "DEG",
+                "zUnit": "DEG"
+              }
+            },
+            {
+              "id": "a-19-n-2",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "useEventTarget": "CHILDREN",
+                  "selector": ".collaborate-image",
+                  "selectorGuids": [
+                    "e929fe1b-01a0-b7e7-f085-c43bd6931f55"
+                  ]
+                },
+                "xValue": 0.9,
+                "yValue": 0.9,
+                "locked": true
+              }
+            },
+            {
+              "id": "a-19-n-3",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "useEventTarget": "CHILDREN",
+                  "selector": ".collaborate-image",
+                  "selectorGuids": [
+                    "e929fe1b-01a0-b7e7-f085-c43bd6931f55"
+                  ]
+                },
+                "yValue": -160,
+                "xUnit": "DEG",
+                "yUnit": "deg",
+                "zUnit": "DEG"
+              }
+            }
+          ]
+        },
+        {
+          "actionItems": [
+            {
+              "id": "a-19-n-5",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 1200,
+                "target": {
+                  "useEventTarget": "CHILDREN",
+                  "selector": ".collaborate-image",
+                  "selectorGuids": [
+                    "e929fe1b-01a0-b7e7-f085-c43bd6931f55"
+                  ]
+                },
+                "xValue": 0,
+                "xUnit": "%",
+                "yUnit": "PX",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-19-n-8",
+              "actionTypeId": "TRANSFORM_ROTATE",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 1200,
+                "target": {
+                  "useEventTarget": "CHILDREN",
+                  "selector": ".collaborate-image",
+                  "selectorGuids": [
+                    "e929fe1b-01a0-b7e7-f085-c43bd6931f55"
+                  ]
+                },
+                "yValue": 0,
+                "xUnit": "DEG",
+                "yUnit": "deg",
+                "zUnit": "DEG"
+              }
+            },
+            {
+              "id": "a-19-n-7",
+              "actionTypeId": "TRANSFORM_SCALE",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 1200,
+                "target": {
+                  "useEventTarget": "CHILDREN",
+                  "selector": ".collaborate-image",
+                  "selectorGuids": [
+                    "e929fe1b-01a0-b7e7-f085-c43bd6931f55"
+                  ]
+                },
+                "xValue": 1,
+                "yValue": 1,
+                "locked": true
+              }
+            },
+            {
+              "id": "a-19-n-6",
+              "actionTypeId": "TRANSFORM_SKEW",
+              "config": {
+                "delay": 0,
+                "easing": "ease",
+                "duration": 1200,
+                "target": {
+                  "useEventTarget": "CHILDREN",
+                  "selector": ".collaborate-image",
+                  "selectorGuids": [
+                    "e929fe1b-01a0-b7e7-f085-c43bd6931f55"
+                  ]
+                },
+                "xValue": 0,
+                "xUnit": "deg",
+                "yUnit": "DEG",
+                "zUnit": "DEG"
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": true,
+      "createdOn": 1683490141102
+    },
+    "a-25": {
+      "id": "a-25",
+      "title": "👁 Fade In On Scroll 2",
+      "actionItemGroups": [
+        {
+          "actionItems": [
+            {
+              "id": "a-25-n",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "useEventTarget": true,
+                  "id": "628f30d838105f7cb3ae8e71|454f8225-bb8a-57f8-70b9-84f4d3b4544e"
+                },
+                "yValue": 20,
+                "xUnit": "PX",
+                "yUnit": "px",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-25-n-2",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 500,
+                "target": {
+                  "useEventTarget": true,
+                  "id": "628f30d838105f7cb3ae8e71|454f8225-bb8a-57f8-70b9-84f4d3b4544e"
+                },
+                "value": 0,
+                "unit": ""
+              }
+            }
+          ]
+        },
+        {
+          "actionItems": [
+            {
+              "id": "a-25-n-3",
+              "actionTypeId": "TRANSFORM_MOVE",
+              "config": {
+                "delay": 300,
+                "easing": "ease",
+                "duration": 800,
+                "target": {
+                  "useEventTarget": true,
+                  "id": "628f30d838105f7cb3ae8e71|454f8225-bb8a-57f8-70b9-84f4d3b4544e"
+                },
+                "yValue": 0,
+                "xUnit": "PX",
+                "yUnit": "px",
+                "zUnit": "PX"
+              }
+            },
+            {
+              "id": "a-25-n-4",
+              "actionTypeId": "STYLE_OPACITY",
+              "config": {
+                "delay": 300,
+                "easing": "ease",
+                "duration": 800,
+                "target": {
+                  "useEventTarget": true,
+                  "id": "628f30d838105f7cb3ae8e71|454f8225-bb8a-57f8-70b9-84f4d3b4544e"
+                },
+                "value": 1,
+                "unit": ""
+              }
+            }
+          ]
+        }
+      ],
+      "useFirstGroupAsInitialState": true,
+      "createdOn": 1659003970898
+    }
+  },
+  "site": {
+    "mediaQueries": [
+      {
+        "key": "main",
+        "min": 992,
+        "max": 10000
+      },
+      {
+        "key": "medium",
+        "min": 768,
+        "max": 991
+      },
+      {
+        "key": "small",
+        "min": 480,
+        "max": 767
+      },
+      {
+        "key": "tiny",
+        "min": 0,
+        "max": 479
+      }
+    ]
+  }
+}

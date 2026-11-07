@@ -1,0 +1,101 @@
+/* Keep the original Webflow layout tree despite React's mount container. */
+#root, .captured-page { display: contents; }
+
+/* Reserve the frame's space until its lazy image has loaded. Without it the
+   Features section can collapse and move scroll triggers on narrow screens. */
+.sticky-phone .hero-section-phone-image { aspect-ratio: auto 948 / 1940; }
+
+.not-found { max-width: 760px; margin: 15vh auto; padding: 32px; font-family: Manrope, sans-serif; }
+
+/* Kho Nhỏ app palette, from frontend/src/constants/theme.ts. */
+body.kho-nho {
+  --plum: #3a0f34;
+  --plum-medium: #75496f;
+  --plum-accent: #66365e;
+  --plum-soft: #f1e7ef;
+  --cream: #f6f1ee;
+  --card: #fcf8f5;
+  --gold: #f3cf82;
+  --gold-light: #fcf0d8;
+  --text: #321d30;
+  --muted: #624c5f;
+  --border: #e3d6df;
+  --color--blue: var(--plum-accent);
+  --color--purple: var(--plum-medium);
+  --color--orange: var(--gold);
+  --color--font-color: var(--text);
+  --color--paragraph-color: var(--muted);
+  --color--background-color: var(--card);
+  --color--grey-sections: var(--border);
+  --fonts--paragraph-font: Inter, system-ui, sans-serif;
+  background: var(--cream);
+  color: var(--text);
+  font-family: Inter, system-ui, sans-serif;
+}
+
+.kho-nho .hero-section {
+  background: radial-gradient(ellipse at 90% 9%, #a3699b2a, transparent 56%),
+    radial-gradient(ellipse at 6% 32%, #eaaa0022, transparent 53%),
+    linear-gradient(145deg, #fbf8f3, #e5e4e2 145%);
+}
+.kho-nho .brand { display: inline-flex; align-items: center; gap: 8px; width: auto; flex-shrink: 0; text-decoration: none; }
+.kho-nho .brand-image, .kho-nho .footer-brand { width: 36px; height: 36px; border-radius: 9px; }
+.kho-nho .brand-name { color: var(--plum); font-weight: 800; white-space: nowrap; }
+.kho-nho .nav-link { white-space: nowrap; }
+.kho-nho .nav-link:hover { background: var(--plum-soft); }
+.kho-nho .nav-link.w--current { background: var(--plum-accent); color: white; }
+.kho-nho .hero-title .gradient-text { background-image: linear-gradient(95deg, var(--plum) 10%, var(--plum-medium) 62%, #986214); }
+.kho-nho .hero-paragraph-holder { max-width: 540px; }
+.kho-nho .hero-paragraph-holder p { margin-inline: auto; color: var(--muted); }
+.kho-nho .hero-actions { display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 8px 22px; margin-top: 20px; }
+.kho-nho .hero-secondary { display: inline-flex; min-height: 44px; gap: 8px; align-items: center; color: var(--plum); font-weight: 600; text-underline-offset: 4px; }
+.kho-nho .release-meta { display: block; margin-top: 12px; color: var(--muted); font-size: 13px; font-weight: 600; }
+.kho-nho .button { background-color: var(--plum); border-color: transparent; border-radius: 12px; }
+.kho-nho .button:hover { background-color: var(--plum-accent); }
+.kho-nho .apk-button, .kho-nho .button.navbar-button {
+  background-color: var(--gold);
+  color: var(--text);
+  font-weight: 700;
+}
+.kho-nho .apk-button:hover, .kho-nho .button.navbar-button:hover { background-color: #edc16a; color: var(--text); }
+.kho-nho .apk-button { display: inline-flex; align-items: center; justify-content: center; gap: 9px; min-height: 48px; padding-inline: 20px; }
+.kho-nho .apk-button svg { width: 18px; height: 18px; flex: none; }
+.kho-nho a:focus-visible, .kho-nho .w-nav-button:focus-visible { outline: 2px solid var(--plum-accent); outline-offset: 4px; }
+
+.kho-nho .workflow-chip { display: inline-flex; align-items: center; gap: 10px; white-space: nowrap; color: var(--plum-accent); font-weight: 700; }
+.kho-nho .workflow-chip svg { width: 23px; height: 23px; }
+.kho-nho .tag { color: var(--plum-accent); font-weight: 700; letter-spacing: .065em; }
+.kho-nho .collaborante-image-holder { aspect-ratio: 1.35; align-items: flex-start; padding: 24px 16px 0; background-image: linear-gradient(145deg, #f0e1ed, #f8edd8); }
+.kho-nho .collaborante-image-holder._02 { background-image: linear-gradient(135deg, #3a0f34, #75496f 74%, #ba9762); }
+.kho-nho .collaborate-image { width: min(68%, 280px); height: auto; aspect-ratio: 1080 / 2400; flex: none; border: 4px solid var(--plum); box-shadow: 0 16px 36px #3f1d3b44; }
+.kho-nho .feature-intro { margin-top: 56px; }
+.kho-nho .small-icon { color: var(--plum-accent); background-color: var(--plum-soft); padding: 14px; width: 52px; height: 52px; min-width: 52px; min-height: 52px; }
+
+.kho-nho .pricing-tab-menu { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
+.kho-nho .tab-link-tab-2 { margin: 0; border-color: var(--border); color: var(--plum); }
+.kho-nho .tab-link-tab-2.w--current { background: var(--gold); border-color: #e7ca96; color: var(--text); }
+.kho-nho .pricing-table { padding: 22px; border: 1px solid var(--border); gap: 10px; }
+.kho-nho .pricing-tags { color: var(--plum); background: var(--gold-light); }
+.kho-nho .install-card-title { font: 750 24px/1.23 Inter, system-ui, sans-serif; margin: 0; }
+.kho-nho .pricing-table p { margin: 0; color: var(--muted); }
+.kho-nho .card-shadows { border-color: var(--border); background: linear-gradient(140deg, #fffcf8 8%, #f8f1f7 100%); }
+.kho-nho .cta-heading-holder { max-width: none; padding-bottom: 16px; }
+.kho-nho .cta-heading { color: var(--plum); font-weight: 800; line-height: 1.2; }
+.kho-nho .download-actions { padding-bottom: 28px; }
+.kho-nho .footer-note { max-width: 260px; color: var(--muted); }
+.kho-nho .footer-content { grid-template-columns: auto auto; }
+
+@media (max-width: 991px) {
+  .kho-nho .nav-menu { background-color: var(--card); }
+  .kho-nho .cta-form-holder-2 { padding-inline: 12px; }
+}
+
+@media (max-width: 479px) {
+  .kho-nho .hero-actions { gap: 2px 14px; }
+  .kho-nho .hero-paragraph-holder p { max-width: 32ch; }
+  .kho-nho .hero-actions .apk-button { padding-inline: 13px; font-size: 14px; }
+  .kho-nho .hero-secondary { font-size: 14px; }
+  .kho-nho .small-icon { width: 38px; height: 38px; min-width: 38px; min-height: 38px; padding: 8px; }
+  .kho-nho .feature-intro { margin-top: 24px; }
+  .kho-nho .tab-link-tab-2 { padding-inline: 16px; }
+}
