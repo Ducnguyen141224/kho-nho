@@ -31,7 +31,7 @@
   "assets": [
     {
       "url": "https://cdn.prod.website-files.com/672a19fac4b4b452e1a9eaa8/css/ovo-messenger.webflow.0d0212f27.css",
-      "local": "/assets/2888b57ee8-ovo-messenger.webflow.0d0212f27.css",
+      "local": "/assets/layout.css",
       "originalSha256": "df6c93795d88f95136ac22a19b6ad8be0765cc7c35ee8a2824aea24814b8aa4d",
       "localSha256": "75a3429912770d431cde69696f44c89706df53f2f9ea53846a1f1b68b9e16647",
       "size": 77091,
