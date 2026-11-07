@@ -60,12 +60,12 @@ try {
     await page.waitForFunction(() => window.animationEvents.has('e-102'));
     await page.locator('.collaborante-image-holder').first().scrollIntoViewIfNeeded();
     await page.waitForFunction(() => window.animationEvents.has('e-98'));
-    const assets = await page.locator('img[src^="/kho-nho/"]').evaluateAll(nodes => Promise.all(nodes.map(async node => {
+    const assets = await page.locator('.captured-page img').evaluateAll(nodes => Promise.all(nodes.map(async node => {
       node.loading = 'eager';
       await node.decode();
       return node.naturalWidth;
     })));
-    assert.equal(assets.length, 7);
+    assert.equal(assets.length, 10);
     assert.ok(assets.every(width => width > 0));
     assert.deepEqual(errors, []);
     results.push({ width, images: assets.length, events: await page.evaluate(() => [...window.animationEvents].sort()) });
