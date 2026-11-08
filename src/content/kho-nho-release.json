@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "android": "Android 7.0+",
-  "size": "143 MB",
-  "bytes": 143430886,
-  "sha256": "B1AEC442812E533FC3F32B610102F8F8C05A8B5E7A125BB4EEACED69D94029B4",
-  "url": "https://expo.dev/artifacts/eas/PzRLXPz2FRVFEm5suJdQ3xEA2OcM5UDxVEKrCuP0MK0.apk"
+  "version": "1.0.1",
+  "android": "Android 7.0+ · ARM64",
+  "size": "27,02 MB",
+  "bytes": 27021827,
+  "sha256": "C0B689B2C32E0F91C4C0400F1F40D3F97C6FB7118850F884A0C7352E067FC90A",
+  "url": "https://expo.dev/artifacts/eas/qLI_AHyBK4HP0tUGLucg65bE1XHc7kVmd4FhRr8R5bA.apk"
 }

@@ -33,6 +33,9 @@ try {
     assert.equal(await page.locator('html').getAttribute('lang'), 'vi');
     assert.equal(await page.evaluate(() => document.body.scrollWidth <= innerWidth), true);
     assert.deepEqual(await page.locator('.apk-button').evaluateAll(nodes => nodes.map(node => node.href)), [release.url, release.url]);
+    const releaseLabels = await page.locator('.release-meta').allTextContents();
+    assert.equal(releaseLabels.length, 2);
+    assert.ok(releaseLabels.every(label => label.includes(`v${release.version}`) && label.includes(release.android) && label.includes(release.size)));
     await page.waitForFunction(() => window.animationEvents.has('e-3') && window.animationEvents.has('e-4'));
     await page.waitForTimeout(1500);
     if (width === 1440 || width === 390) await page.screenshot({ path: fileURLToPath(new URL(`hero-${width}.png`, evidence)) });
